@@ -1,6 +1,6 @@
 # Appendix C: Conditional Speculative Framework
 
-> ⚠️ **WARNING: This appendix contains speculative physics.** Nothing below is a claimed mechanism. No demonstrated physics supports any element. Every equation is either standard physics applied to an unsupported condition, or a speculative ansatz with no demonstrated basis. See [Editorial Principles](../style/editorial-principles.md).
+> **Warning — Speculative physics.** Nothing below is a claimed mechanism. No demonstrated physics supports any element. Every equation is either standard physics applied to an unsupported condition, or a speculative ansatz with no demonstrated basis. See [Editorial Principles](../style/editorial-principles.md).
 
 **What follows is not a claim that UAPs work this way. It is a map of what would have to be true if extreme kinematics were independently verified and no conventional explanation remained.** The boundary between established physics and speculation is marked clearly.
 
@@ -8,7 +8,7 @@ For the real physics gaps that motivate this framework, see [Appendix B](b-physi
 
 ---
 
-> ⚠️ **Not a mechanism.** The following is a conditional exploration of what physics would need to permit. No demonstrated physics supports any element below. See [Editorial Principles](../style/editorial-principles.md).
+> **Caution — Speculative content.** The following is a conditional exploration of what physics would need to permit. No demonstrated physics supports any element below. See [Editorial Principles](../style/editorial-principles.md).
 
 ## 1. Core Principle: Macroscopic Quantum Coherence
 
@@ -30,7 +30,7 @@ The Lindblad operators $L_k$ and rates $\gamma_k$ determine the decoherence chan
 
 ---
 
-> ⚠️ **Not a mechanism.** The following is a conditional exploration of what physics would need to permit. No demonstrated physics supports any element below. See [Editorial Principles](../style/editorial-principles.md).
+> **Caution — Speculative content.** The following is a conditional exploration of what physics would need to permit. No demonstrated physics supports any element below. See [Editorial Principles](../style/editorial-principles.md).
 
 ## 2. Mathematical Framework: The Modified Lindblad and Semiclassical Gravity
 
@@ -50,7 +50,7 @@ Here $\alpha = 0$ is normal inertia; $\alpha = 1$ is complete cancellation. Ther
 
 **Standard physics counter:** The ZPF is a quantum field. Controlling modes up to the electron Compton frequency (~$10^{20}$ Hz) across macroscopic volumes is not an engineering challenge; it is a physical void. No known material, field, or metamaterial can phase-lock vacuum fluctuations.
 
-The Sakharov-Puthoff hypothesis has been subject to detailed criticism in the peer-reviewed literature, with Levin (2009) demonstrating that the original Haisch-Rueda-Puthoff formulation contained incorrect physical and mathematical assumptions, that the force considered was fundamentally relativistic and equal to zero, and that the sign of the final force expression was wrong. [^48^] This hypothesis is not mainstream physics and cannot serve as a foundation for engineering scenarios without extensive qualification.
+The Sakharov-Puthoff hypothesis has been subject to detailed criticism in the peer-reviewed literature, with Levin (2009) demonstrating that the original Haisch-Rueda-Puthoff formulation contained incorrect physical and mathematical assumptions, that the force considered was fundamentally relativistic and equal to zero, and that the sign of the final force expression was wrong. [^LEVIN-2009^] This hypothesis is not mainstream physics and cannot serve as a foundation for engineering scenarios without extensive qualification.
 
 ### 2.2 Drag Suppression (Unsupported)
 
@@ -76,7 +76,7 @@ Vacuum energy is connected to gravity in semiclassical and cosmological contexts
 
 ---
 
-> ⚠️ **Not a mechanism.** The following is a conditional exploration of what physics would need to permit. No demonstrated physics supports any element below. See [Editorial Principles](../style/editorial-principles.md).
+> **Caution — Speculative content.** The following is a conditional exploration of what physics would need to permit. No demonstrated physics supports any element below. See [Editorial Principles](../style/editorial-principles.md).
 
 ## 3. Required Capabilities (Undemonstrated)
 
@@ -102,7 +102,7 @@ Quantum error correction could, in principle, reduce this burden if a fault-tole
 
 ---
 
-> ⚠️ **Not a mechanism.** The following is a conditional exploration of what physics would need to permit. No demonstrated physics supports any element below. See [Editorial Principles](../style/editorial-principles.md).
+> **Caution — Speculative content.** The following is a conditional exploration of what physics would need to permit. No demonstrated physics supports any element below. See [Editorial Principles](../style/editorial-principles.md).
 
 ## 5. The Experimental Gap
 
@@ -118,7 +118,7 @@ The Schwinger critical field (~$1.3 \times 10^{18} \text{ V/m}$) is irrelevant t
 
 ## 6. Quantum Gravity Phenomenology: The Tabletop Frontier
 
-For decades, quantum gravity was thought untestable in the laboratory. New programs such as the BridgeQG COST Action (2024–2028) are coordinating tabletop experiments to test gravitationally induced entanglement (GIE) using Planck-mass-scale masses. [^25^][^28^] Whether GIE experiments would truly "witness" the quantum nature of gravity is disputed; some argue the results could be interpreted within semiclassical frameworks. Recent work by Trillo and Navascués has shown that even the Diósi-Penrose collapse model — a theory of classical gravity coupled to quantum matter — can predict entanglement generation, complicating the interpretation. [^32^]
+For decades, quantum gravity was thought untestable in the laboratory. New programs such as the BridgeQG COST Action (2024–2028) are coordinating tabletop experiments to test gravitationally induced entanglement (GIE) using Planck-mass-scale masses. [^MARLETTO-VEDRAL-2017^][^BRIDGEQG-CA23130^] Whether GIE experiments would truly "witness" the quantum nature of gravity is disputed; some argue the results could be interpreted within semiclassical frameworks. Recent work by Trillo and Navascués has shown that even the Diósi-Penrose collapse model — a theory of classical gravity coupled to quantum matter — can predict entanglement generation, complicating the interpretation. [^TRILLO-NAVASCUES-2024^]
 
 The bottom line: We are approaching the ability to test whether gravity can create quantum entanglement between laboratory masses. This is profound. But it is not engineering spacetime. It is not metric control. It is a binary test — does gravity entangle or not? — and even that remains technically formidable. The distance from this frontier to "a craft that cancels inertia and manipulates spacetime" is not a small step. It is a chasm of fifteen orders of magnitude in mass, thirty orders of magnitude in decoherence rate, and an entire missing theory of quantum gravity.
 
@@ -140,7 +140,7 @@ The only honest demand is unchanged: **demand the radar tapes, the sensor metada
 
 ## References
 
-[^25^]: For quantum gravity phenomenology, see C. Marletto and V. Vedral, "Gravitationally-induced quantum interference," *Nature Physics* 13, 1007 (2017); BridgeQG COST Action CA23130.
-[^28^]: BridgeQG COST Action CA23130 (2024–2028), coordinating tabletop quantum gravity experiments across European institutions.
-[^32^]: B. C. Trillo and M. Navascués, "Gravity-mediated entanglement and the Diósi-Penrose model," 2023/2024.
-[^48^]: B. H. J. Levin, "Inertia as a zero-point-field Lorentz force?," *Physical Review A* 79, 012114 (2009).
+[^MARLETTO-VEDRAL-2017^]: For quantum gravity phenomenology, see C. Marletto and V. Vedral, "Gravitationally-induced quantum interference," *Nature Physics* 13, 1007 (2017); BridgeQG COST Action CA23130.
+[^BRIDGEQG-CA23130^]: BridgeQG COST Action CA23130 (2024–2028), coordinating tabletop quantum gravity experiments across European institutions.
+[^TRILLO-NAVASCUES-2024^]: B. C. Trillo and M. Navascués, "Gravity-mediated entanglement and the Diósi-Penrose model," 2023/2024.
+[^LEVIN-2009^]: B. H. J. Levin, "Inertia as a zero-point-field Lorentz force?," *Physical Review A* 79, 012114 (2009).

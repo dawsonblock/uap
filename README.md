@@ -10,6 +10,7 @@ uap/
 ├── CHANGELOG.md                       ← revision history
 ├── LICENSE                            ← CC BY-ND 4.0
 ├── Makefile                           ← lint, check-refs, check-stale, build
+├── package.json                       ← markdownlint-cli dependency
 ├── .markdownlint.json                 ← lint configuration
 ├── manuscript/
 │   └── uap-comprehensive.md           ← main manuscript (4 parts)
@@ -34,6 +35,12 @@ uap/
     └── evidence-problem-stitched-draft.md  ← early stitched draft (superseded)
 ```
 
+## Archive (Non-Canonical)
+
+The `archive/` directory contains superseded drafts retained for development history. These files are **not canonical** and contain known factual defects that have been corrected in the canonical versions. See `archive/README.md` for the full warning and file-to-successor mapping.
+
+**For public release:** move `archive/` to a separate branch (e.g. `git checkout -b archive-history && git push origin archive-history`) and remove it from `main`. This prevents search engines and readers from landing on stale drafts. The `make lint` and `make check-stale` commands already exclude `archive/`.
+
 ## Reading Guide
 
 - **New to the manuscript?** Start with `manuscript/uap-comprehensive.md` — it is self-contained and covers all four parts: the evidence record, the physics gaps, the conditional speculative framework, and the editorial principles.
@@ -50,13 +57,25 @@ uap/
 
 The public record does not contain verified evidence of extraterrestrial technology, exotic propulsion, or recovered craft. The only honest demand is for the raw sensor data, platform logs, radar tapes, and reconstruction methodology that would allow independent scientific assessment.
 
+## Setup
+
+```bash
+npm install         # install markdownlint-cli
+# For PDF builds also: brew install pandoc && brew install --cask mactex-no-gui
+# (or on Debian/Ubuntu: apt install pandoc texlive-xetex)
+```
+
 ## Lint & Checks
 
 ```bash
-make lint          # run markdownlint on all .md files
-make check-refs    # verify footnote definitions match references
-make check-stale   # scan canonical files for forbidden/stale strings
-make check         # run all checks (lint, check-refs, check-stale)
+make install-deps   # install markdownlint-cli via npm
+make lint           # run markdownlint on all canonical .md files
+make check-refs     # verify footnote definitions match references
+make check-stale    # scan canonical files for forbidden/stale strings
+make check          # run all checks (lint, check-refs, check-stale)
+make pdf            # build PDF (requires pandoc + xelatex)
+make html           # build HTML (requires pandoc)
+make help           # list all targets
 ```
 
 See the [Makefile](Makefile) for details.

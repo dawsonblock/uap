@@ -8,7 +8,7 @@ AARO's public case-resolution PDF identifies the case as `The Puerto Rico Object
 
 Some third-party treatments (including SCU) use April 25, 2013, likely because of timestamp or source-material differences. This manuscript follows AARO's official date (April 26) unless discussing the discrepancy explicitly.
 
-Primary source: AARO, `AARO_Puerto_Rico_UAP_Case_Resolution.pdf`.
+Primary source: AARO, `AARO_Puerto_Rico_UAP_Case_Resolution.pdf`. Available at <https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/>.
 
 ## AARO FY2024 Annual Report
 
@@ -16,7 +16,11 @@ The FY2024 report (covering May 2023–June 2024) states: 757 reports received, 
 
 No verified evidence of extraterrestrial beings, activity, or technology was found.
 
-Primary source: AARO FY2024 Annual Report.
+Primary source: DOD/AARO, *Fiscal Year 2024 Consolidated Annual Report on UAP*, November 2024. <https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF>.
+
+## AARO GoFast Case Resolution
+
+AARO published a formal GoFast case resolution card with methodology. The PDF is available at <https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf>. The case resolution attributes the apparent high speed to motion parallax.
 
 ## BridgeQG
 

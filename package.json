@@ -1,0 +1,10 @@
+{
+  "name": "uap-manuscript",
+  "version": "2.1.0",
+  "private": true,
+  "description": "UAP: Evidence, Physics, and the Limits of Speculation — manuscript repository",
+  "license": "CC-BY-ND-4.0",
+  "devDependencies": {
+    "markdownlint-cli": "^0.42.0"
+  }
+}

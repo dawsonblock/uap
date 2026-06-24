@@ -20,14 +20,23 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent
 CANONICAL_DIRS = ["manuscript", "appendices", "references", "style"]
 
-# Matches footnote references like [^2^] or [^69^]
-REF_RE = re.compile(r"\[\^(\d+)\^\]")
-# Matches footnote definitions like [^2^]: at start of a line
-DEF_RE = re.compile(r"^\[\^(\d+)\^\]:")
+# Files that are bibliography-only: they define footnotes for use by other
+# files but do not reference them internally. Unused-definition warnings are
+# suppressed for these files.
+BIBLIOGRAPHY_FILES = {"references/references.md"}
+
+# Matches footnote references like [^KEY^] or [^2^] (supports both stable keys and numeric IDs)
+REF_RE = re.compile(r"\[\^([A-Za-z0-9_-]+)\^\]")
+# Matches footnote definitions like [^KEY^]: at start of a line
+DEF_RE = re.compile(r"^\[\^([A-Za-z0-9_-]+)\^\]:")
 
 
-def check_file(filepath: Path) -> list[str]:
-    """Return a list of error messages for the given file (empty if OK)."""
+def check_file(filepath: Path, is_bibliography: bool = False) -> list[str]:
+    """Return a list of error messages for the given file (empty if OK).
+
+    If is_bibliography is True, unused-definition warnings are suppressed
+    (bibliography files define footnotes for other files to reference).
+    """
     text = filepath.read_text(encoding="utf-8")
     errors = []
 
@@ -49,13 +58,15 @@ def check_file(filepath: Path) -> list[str]:
 
     # Undefined references
     undefined = referenced - defined
-    for fn_id in sorted(undefined, key=int):
+    for fn_id in sorted(undefined):
         errors.append(f"  undefined: [^{fn_id}^] is referenced but never defined")
 
     # Unused definitions (reported as warnings, not errors, unless --strict)
-    unused = defined - referenced
-    for fn_id in sorted(unused, key=int):
-        errors.append(f"  unused:    [^{fn_id}^] is defined but never referenced")
+    # Skip for bibliography-only files
+    if not is_bibliography:
+        unused = defined - referenced
+        for fn_id in sorted(unused):
+            errors.append(f"  unused:    [^{fn_id}^] is defined but never referenced")
 
     return errors
 
@@ -80,7 +91,9 @@ def main() -> int:
 
     for f in all_files:
         rel = f.relative_to(REPO_ROOT)
-        errors = check_file(f)
+        rel_str = str(rel)
+        is_bib = rel_str in BIBLIOGRAPHY_FILES
+        errors = check_file(f, is_bibliography=is_bib)
         if not errors:
             continue
         print(f"{rel}:")

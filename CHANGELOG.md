@@ -2,6 +2,34 @@
 
 All notable changes to this manuscript bundle are documented in this file.
 
+## [2.1.0] — 2026-06-24
+
+### Trust Infrastructure (P0)
+
+- Added direct official PDF URLs for AARO FY2024 Consolidated Annual Report (`media.defense.gov`), AARO Historical Record Report Volume 1, AARO GoFast Case Resolution, and AARO Puerto Rico Object Case Resolution.
+- Verified GoFast case resolution: AARO published a formal case resolution card with methodology at `aaro.mil/Portals/136/PDFs/case_resolution_reports/`.
+- Softened freshness claim from "No post-2025 public release has altered..." to "As of this revision, no reviewed public release identified in this repository has altered..."
+- Fixed `make pdf` to create `build/` directory before writing output.
+- Added `package.json` with `markdownlint-cli` dependency.
+- Added `make install-deps` target and install instructions in README for markdownlint, pandoc, and xelatex.
+- Makefile now uses `npx --yes markdownlint-cli` instead of requiring a global install.
+
+### Citation Authority (P1)
+
+- Migrated all footnote IDs from numeric `[^N^]` to stable citation keys (e.g., `[^AARO-HRR-2024^]`, `[^NASA-UAP-2023^]`, `[^PEDALINO-2026^]`). 188 replacements across 7 files.
+- Updated `check_footnotes.py` to handle alphanumeric citation keys and skip bibliography-only files (`references/references.md`).
+- Added GitHub Actions CI workflow (`.github/workflows/check.yml`) running lint, footnote check, and stale-claims check.
+- Added `.gitignore` for build artifacts and node_modules.
+- Added README guidance for moving `archive/` to a separate branch before public release.
+
+### Scientific Polish (P2)
+
+- Softened decoherence-rate rhetoric: "staggering" → "catastrophically large, often quoted at scales around"; "thirty orders of magnitude" now qualified as approximate.
+- Added "Known Limitations" section to the manuscript covering temporal scope, decoherence estimate precision, speculative framework status, citation authority, archive non-canonicity, and classified-program claims.
+- Replaced all emoji warning blocks (⚠️) with formal admonition syntax ("Caution — Speculative content") suitable for academic and publication readers.
+- Added YAML front matter with formal abstract, title, subtitle, date, and license metadata for PDF-ready output via pandoc.
+- Updated Makefile to use YAML metadata instead of overriding title flags.
+
 ## [2.0.0] — 2026-06-24
 
 ### Restructured
