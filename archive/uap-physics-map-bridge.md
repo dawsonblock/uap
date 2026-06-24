@@ -87,7 +87,7 @@ To maintain coherence, the craft would need to suppress these rates by isolating
 ### Speculative Extensions (No Demonstrated Basis)
 
 - **Topological quantum matter** with protected surface states that resist decoherence at macroscopic scales. Such states are an active research area; scaling to vehicle sizes is unsupported.
-- **Active quantum control** — quantum error correction applied to a macroscopic object. No such demonstration exists for any system larger than a few kilograms, let alone a vehicle interacting with atmosphere at Mach speeds.
+- **Active quantum control** — quantum error correction applied to a macroscopic object. No such demonstration exists for the relevant macroscopic degrees of freedom of a room-temperature extended object, let alone a vehicle interacting with atmosphere or water.
 - **Casimir engineering** — modifying boundary conditions to suppress certain vacuum modes. This is real at small scales (nanometers to micrometers); scaling it to a vehicle is unsupported.
 
 ## II.2 Inertial Mass Reduction (Speculative Ansatz)
@@ -132,13 +132,15 @@ Vacuum energy is connected to gravity in semiclassical and cosmological contexts
 
 ## II.5 The Power Problem
 
+The following estimate is a **punitive order-of-magnitude heuristic**, not a physical requirement derived from a concrete control model. It shows the scale of the obstacle, not a design parameter.
+
 Suppose the craft attempts to maintain coherence via dynamical decoupling. The power required to suppress natural decoherence scales as:
 
 $$P(\alpha) \sim \alpha^2 \frac{m_0 c^2}{\tau_{\text{dec}}}$$
 
 For $m_0 = 10^4$ kg and $\tau_{\text{dec}} \sim 10^{-30}$ s, $P \sim 10^{50}$ W. This is not merely impractical; it exceeds the power output of the Sun by many orders of magnitude.
 
-Quantum error correction could, in principle, reduce this burden if a fault-tolerant threshold exists. But no quantum error correction has been demonstrated for any system larger than a few kilograms, let alone a vehicle interacting with atmosphere at Mach speeds. The problem is not that the engineering is hard; it is that the known physics of decoherence may be insurmountable for macroscopic objects in thermal environments.
+Quantum error correction could, in principle, reduce this burden if a fault-tolerant threshold exists. But no quantum error correction has been demonstrated for the relevant macroscopic degrees of freedom of a room-temperature extended object, let alone a vehicle interacting with atmosphere or water. The problem is not that the engineering is hard; it is that the known physics of decoherence may be insurmountable for macroscopic objects in thermal environments.
 
 ## II.6 Warp Constraints: Quantum Inequalities
 

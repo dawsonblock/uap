@@ -18,7 +18,8 @@ uap/
 ├── style/
 │   └── editorial-principles.md        ← 12 principles, forbidden phrases, razor checklist
 ├── references/
-│   └── references.md                  ← consolidated bibliography with URLs/DOIs
+│   ├── references.md                  ← consolidated bibliography with URLs/DOIs
+│   └── source-anchors.md              ← high-risk reference facts for verification
 └── archive/
     ├── uap-physics-map-bridge.md      ← original physics deep dive (superseded)
     ├── uap-speculative-framework.md   ← original speculative framework (superseded)
