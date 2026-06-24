@@ -38,7 +38,7 @@ The distinction between "credible witness making serious allegations" and "alleg
 
 ## VI. Aguadilla
 
-The Aguadilla, Puerto Rico incident of April 25, 2013, illustrates how the same footage can sustain radically different interpretations depending on analytical methodology and underlying assumptions. A U.S. Customs and Border Protection aircraft recorded thermal-infrared video of a small object near Rafael Hernandez Airport that appeared to move at high speed, split into two, and descend toward the ocean. The footage became one of the most technically debated pieces of UAP video from the 2010s.
+The Aguadilla, Puerto Rico incident of April 25–26, 2013 (local time/UTC discrepancy in source materials), illustrates how the same footage can sustain radically different interpretations depending on analytical methodology and underlying assumptions. A U.S. Customs and Border Protection aircraft recorded thermal-infrared video of a small object near Rafael Hernandez Airport that appeared to move at high speed, split into two, and descend toward the ocean. The footage became one of the most technically debated pieces of UAP video from the 2010s.
 
 In March 2025, AARO published a formal case resolution. Using Systems Toolkit (STK) modeling, AARO reconstructed the aircraft's flight path and determined that the objects drifted at approximately 8 mph — consistent with wind speed at the time. [^15^] The office assessed with high confidence that the objects did not exhibit anomalous behavior or transmedium capabilities, and with moderate confidence that they were sky lanterns, noting that local hotels and resorts commonly released lanterns during celebrations. AARO attributed the apparent speed to parallax from the aircraft's own motion, the "split" to the camera resolving two separate objects, and the apparent water entry to thermal crossover — a phenomenon in which an object's heat signature becomes indistinguishable from the ocean background.
 
@@ -310,7 +310,7 @@ The scenario above describes a possible engineering regime that would allow UAP-
 
 Moreover, the entire exercise is conditional. It only matters if the extreme UAP kinematics are real and not the result of sensor artifacts, misperceptions, or classified conventional technology. The public record does not provide the raw radar data, metadata, or reconstruction methodology to confirm those kinematics. AARO's reports say they have found no verified exotic physics; NASA's study emphasizes poor data quality; and many cases remain unresolved due to lack of data rather than confirmed anomaly. [^2^][^16^]
 
-The power problem alone is prohibitive. Suppose a craft attempts to maintain coherence via dynamical decoupling. The power required to suppress natural decoherence scales as P ~ α²m₀c²/τ_dec, where τ_dec is the decoherence timescale. For a 10⁴-kg object with τ_dec ~ 10⁻³⁰ s, P ~ 10⁵⁰ W — exceeding the power output of the Sun by many orders of magnitude. Quantum error correction could, in principle, reduce this burden if a fault-tolerant threshold exists, but no quantum error correction has been demonstrated for any system larger than a few kilograms, let alone a vehicle interacting with atmosphere at Mach speeds. [^50^]
+The power problem alone is prohibitive. Suppose a craft attempts to maintain coherence via dynamical decoupling. The power required to suppress natural decoherence scales as P ~ α²m₀c²/τ_dec, where τ_dec is the decoherence timescale. For a 10⁴-kg object with τ_dec ~ 10⁻³⁰ s, P ~ 10⁵⁰ W — exceeding the power output of the Sun by many orders of magnitude. Quantum error correction could, in principle, reduce this burden if a fault-tolerant threshold exists, but no quantum error correction has been demonstrated for the relevant macroscopic degrees of freedom of a room-temperature extended object, let alone a vehicle interacting with atmosphere or water. [^50^]
 
 The honest, evidence-bounded position is clear: decoherence explains why the world looks classical; it is a genuine open question how the quantum-classical transition is fully realized, but it does not license claims of exotic propulsion. If extreme UAP performance were independently verified, quantum control would be one speculative area to examine — not the required starting point, and not a ranked explanation. The public record permits only a data demand, not a mechanism choice.
 
@@ -342,15 +342,15 @@ The rebel's final weapon is unchanged: demand the radar tapes, the sensor metada
 [^12^]: Grusch testified to interviewing over 40 witnesses during his UAP Task Force tenure. See hearing transcript, July 26, 2023.
 [^13^]: Analysis of Aguadilla footage by AARO, Metabunk (Mick West), and SCU. Raw sensor data with full metadata has not been publicly released.
 [^14^]: Scientific Coalition for UAP Studies (SCU), *Aurora/Texas Meteors and the 2013 Aguadilla, Puerto Rico UAP* report.
-[^15^]: AARO, *Case Resolution: Aguadilla, Puerto Rico (April 25, 2013)*, March 2025.
+[^15^]: AARO, *Case Resolution: Aguadilla, Puerto Rico (April 25–26, 2013)*, March 2025.
 [^16^]: NASA Independent Study Team on UAP, *Report on Unidentified Anomalous Phenomena*, September 2023.
 [^19^]: NASA Independent Study Team on UAP, September 2023. GoFast geometric analysis based on ATFLIR on-screen data; NASA data quality assessment.
 [^20^]: AARO, *Case Resolution: GoFast (2015)*, 2024.
 [^23^]: F. Patereau et al. (ETH Zurich), "A macroscopic quantum mechanical object," *Nature Communications* 14, 5266 (2023). 16.2-microgram sapphire crystal superposition.
-[^25^]: For quantum gravity phenomenology, see C. Marletto and V. Vedral, "Gravitationally-induced quantum interference," *Nature Physics* 13, 1007 (2017); BridgeQG COST Action CA23140.
+[^25^]: For quantum gravity phenomenology, see C. Marletto and V. Vedral, "Gravitationally-induced quantum interference," *Nature Physics* 13, 1007 (2017); BridgeQG COST Action CA23130.
 [^26^]: E. Joos and H. D. Zeh, "The emergence of classical properties through interaction with the environment," *Zeitschrift für Physik B* 59, 223 (1985); K. Hornberger, in *Decoherence and the Quantum-to-Classical Transition* (Springer, 2008).
-[^27^]: Y. Y. Fein et al. (University of Vienna), "Quantum superposition of molecules beyond 25 kDa," *Nature Physics* 15, 1242 (2019); subsequent nanoparticle delocalization experiments, 2025–2026.
-[^28^]: BridgeQG COST Action CA23140 (2024–2028), coordinating tabletop quantum gravity experiments across European institutions.
+[^27^]: Y. Y. Fein et al. (University of Vienna), "Quantum superposition of molecules beyond 25 kDa," *Nature Physics* 15, 1242 (2019); S. Pedalino et al., "Probing quantum mechanics with nanoparticle matter-wave interferometry," *Nature* 649, 866–870 (2026). Sodium nanoparticles >170,000 Da, macroscopicity μ = 15.5.
+[^28^]: BridgeQG COST Action CA23130 (2024–2028), coordinating tabletop quantum gravity experiments across European institutions.
 [^30^]: For interpretation issues in GIE experiments, see R. B. Mann et al., "Can gravity be quantum?," *arXiv:2308.10907* (2023).
 [^32^]: B. C. Trillo and M. Navascués, "Gravity-mediated entanglement and the Diósi-Penrose model," 2023/2024.
 [^36^]: AARO, *Historical Record Report*, Volume 1, March 2024.

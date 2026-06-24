@@ -2,6 +2,8 @@
 
 **What follows is not a claim that UAPs work this way. It is a map of what would have to be true if extreme kinematics were independently verified and no conventional explanation remained.** Every equation is either standard physics applied to an unsupported condition, or a speculative ansatz with no demonstrated basis. The boundary between the two is marked clearly.
 
+> ⚠️ **Not a mechanism.** The following is a conditional exploration of what physics would need to permit. No demonstrated physics supports any element below. See [Editorial Principles](../style/editorial-principles.md).
+
 ## 1. Core Principle: Macroscopic Quantum Coherence
 
 The central idea is conditional: a craft that could maintain macroscopic quantum coherence while selectively coupling to its environment might modify its effective inertial response and local spacetime curvature. This is not global coherence of the universe; it is a local bubble where the usual decoherence-induced classical boundary is somehow altered.
@@ -17,8 +19,10 @@ The Lindblad operators $L_k$ and rates $\gamma_k$ determine the decoherence chan
 ### Speculative Extensions (No Demonstrated Basis)
 
 - **Topological quantum matter** with protected surface states that resist decoherence at macroscopic scales. Such states are an active research area; scaling to vehicle sizes is unsupported.
-- **Active quantum control** — quantum error correction applied to a macroscopic object. No such demonstration exists for any system larger than a few kilograms, let alone a vehicle interacting with atmosphere at Mach speeds.
+- **Active quantum control** — quantum error correction applied to a macroscopic object. No such demonstration exists for the relevant macroscopic degrees of freedom of a room-temperature extended object, let alone a vehicle interacting with atmosphere or water.
 - **Casimir engineering** — modifying boundary conditions to suppress certain vacuum modes. This is real at small scales (nanometers to micrometers); scaling it to a vehicle is unsupported.
+
+> ⚠️ **Not a mechanism.** The following is a conditional exploration of what physics would need to permit. No demonstrated physics supports any element below. See [Editorial Principles](../style/editorial-principles.md).
 
 ## 2. Mathematical Framework: The Modified Lindblad and Semiclassical Gravity
 
@@ -62,6 +66,8 @@ If the craft's inertial mass were near zero (by the unsupported ansatz above), t
 
 Vacuum energy is connected to gravity in semiclassical and cosmological contexts, but controllable vacuum-stress engineering has not been demonstrated. **No macroscopic object has ever produced a measurable, controllable metric perturbation through quantum coherence.**
 
+> ⚠️ **Not a mechanism.** The following is a conditional exploration of what physics would need to permit. No demonstrated physics supports any element below. See [Editorial Principles](../style/editorial-principles.md).
+
 ## 3. Required Capabilities (Undemonstrated)
 
 If the scenario were possible, it would require:
@@ -74,13 +80,17 @@ If the scenario were possible, it would require:
 
 ## 4. The Power Problem
 
+The following estimate is a **punitive order-of-magnitude heuristic**, not a physical requirement derived from a concrete control model. It shows the scale of the obstacle, not a design parameter.
+
 Suppose the craft attempts to maintain coherence via dynamical decoupling. The power required to suppress natural decoherence scales as:
 
 $$P(\alpha) \sim \alpha^2 \frac{m_0 c^2}{\tau_{\text{dec}}}$$
 
 For $m_0 = 10^4$ kg and $\tau_{\text{dec}} \sim 10^{-30}$ s, $P \sim 10^{50}$ W. This is not merely impractical; it exceeds the power output of the Sun by many orders of magnitude.
 
-Quantum error correction could, in principle, reduce this burden if a fault-tolerant threshold exists. But no quantum error correction has been demonstrated for any system larger than a few kilograms, let alone a vehicle interacting with atmosphere at Mach speeds. The problem is not that the engineering is hard; it is that the known physics of decoherence may be insurmountable for macroscopic objects in thermal environments.
+Quantum error correction could, in principle, reduce this burden if a fault-tolerant threshold exists. But no quantum error correction has been demonstrated for the relevant macroscopic degrees of freedom of a room-temperature extended object, let alone a vehicle interacting with atmosphere or water. The problem is not that the engineering is hard; it is that the known physics of decoherence may be insurmountable for macroscopic objects in thermal environments.
+
+> ⚠️ **Not a mechanism.** The following is a conditional exploration of what physics would need to permit. No demonstrated physics supports any element below. See [Editorial Principles](../style/editorial-principles.md).
 
 ## 5. The Experimental Gap
 
@@ -116,8 +126,8 @@ The conditional remains: if independently verified data ever established extreme
 
 ## References
 
-[^25^]: For quantum gravity phenomenology, see C. Marletto and V. Vedral, "Gravitationally-induced quantum interference," *Nature Physics* 13, 1007 (2017); BridgeQG COST Action CA23140.
-[^28^]: BridgeQG COST Action CA23140 (2024–2028), coordinating tabletop quantum gravity experiments across European institutions.
+[^25^]: For quantum gravity phenomenology, see C. Marletto and V. Vedral, "Gravitationally-induced quantum interference," *Nature Physics* 13, 1007 (2017); BridgeQG COST Action CA23130.
+[^28^]: BridgeQG COST Action CA23130 (2024–2028), coordinating tabletop quantum gravity experiments across European institutions.
 [^32^]: B. C. Trillo and M. Navascués, "Gravity-mediated entanglement and the Diósi-Penrose model," 2023/2024.
 [^48^]: B. H. J. Levin, "Inertia as a zero-point-field Lorentz force?," *Physical Review A* 79, 012114 (2009).
 

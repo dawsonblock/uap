@@ -238,10 +238,11 @@ The map is real. The gaps are genuine open problems in physics. The bridge is a 
 [^2^]: AARO, *Report on the Historical Record of U.S. Government Involvement with UAP*, Volume 1, March 2024; AARO FY2024 Annual Report.
 [^16^]: NASA Independent Study Team on UAP, *Report on Unidentified Anomalous Phenomena*, September 2023.
 [^23^]: F. Patereau et al. (ETH Zurich), "A macroscopic quantum mechanical object," *Nature Communications* 14, 5266 (2023). 16.2-microgram sapphire crystal superposition.
-[^25^]: For quantum gravity phenomenology, see C. Marletto and V. Vedral, "Gravitationally-induced quantum interference," *Nature Physics* 13, 1007 (2017); BridgeQG COST Action CA23140.
+[^25^]: For quantum gravity phenomenology, see C. Marletto and V. Vedral, "Gravitationally-induced quantum interference," *Nature Physics* 13, 1007 (2017); BridgeQG COST Action CA23130.
 [^26^]: E. Joos and H. D. Zeh, "The emergence of classical properties through interaction with the environment," *Zeitschrift für Physik B* 59, 223 (1985); K. Hornberger, in *Decoherence and the Quantum-to-Classical Transition* (Springer, 2008).
-[^27^]: Y. Y. Fein et al. (University of Vienna), "Quantum superposition of molecules beyond 25 kDa," *Nature Physics* 15, 1242 (2019); subsequent nanoparticle delocalization experiments, 2025–2026.
-[^28^]: BridgeQG COST Action CA23140 (2024–2028), coordinating tabletop quantum gravity experiments across European institutions.
+[^27^]: Y. Y. Fein et al. (University of Vienna), "Quantum superposition of molecules beyond 25 kDa," *Nature Physics* 15, 1242 (2019); S. Pedalino et al., "Probing quantum mechanics with nanoparticle matter-wave interferometry," *Nature* 649, 866–870 (2026). Sodium nanoparticles >170,000 Da, macroscopicity μ = 15.5.
+[^28^]: BridgeQG COST Action CA23130 (2024–2028), coordinating tabletop quantum gravity experiments across European institutions.
+[^30^]: For interpretation issues in GIE experiments, see R. B. Mann et al., "Can gravity be quantum?," *arXiv:2308.10907* (2023).
 [^32^]: B. C. Trillo and M. Navascués, "Gravity-mediated entanglement and the Diósi-Penrose model," 2023/2024.
 [^48^]: B. H. J. Levin, "Inertia as a zero-point-field Lorentz force?," *Physical Review A* 79, 012114 (2009).
 [^49^]: S. Pfenning and L. Ford, "The unphysical nature of 'warp drive'," *Classical and Quantum Gravity* 14, 1743 (1997).

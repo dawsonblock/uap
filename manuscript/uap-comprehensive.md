@@ -62,7 +62,7 @@ The distinction between "credible witness making serious allegations" and "alleg
 
 ## I.6 Case Analysis: Aguadilla
 
-The Aguadilla, Puerto Rico incident of April 25, 2013, illustrates how the same footage can sustain radically different interpretations depending on analytical methodology and underlying assumptions. A U.S. Customs and Border Protection aircraft recorded thermal-infrared video of a small object near Rafael Hernandez Airport that appeared to move at high speed, split into two, and descend toward the ocean. The footage became one of the most technically debated pieces of UAP video from the 2010s.
+The Aguadilla, Puerto Rico incident of April 25–26, 2013 (local time/UTC discrepancy in source materials), illustrates how the same footage can sustain radically different interpretations depending on analytical methodology and underlying assumptions. A U.S. Customs and Border Protection aircraft recorded thermal-infrared video of a small object near Rafael Hernandez Airport that appeared to move at high speed, split into two, and descend toward the ocean. The footage became one of the most technically debated pieces of UAP video from the 2010s.
 
 In March 2025, AARO published a formal case resolution. Using Systems Toolkit (STK) modeling, AARO reconstructed the aircraft's flight path and determined that the objects drifted at approximately 8 mph — consistent with wind speed at the time. [^15^] The office assessed with high confidence that the objects did not exhibit anomalous behavior or transmedium capabilities, and with moderate confidence that they were sky lanterns, noting that local hotels and resorts commonly released lanterns during celebrations. AARO attributed the apparent speed to parallax from the aircraft's own motion, the "split" to the camera resolving two separate objects, and the apparent water entry to thermal crossover — a phenomenon in which an object's heat signature becomes indistinguishable from the ocean background.
 
@@ -178,11 +178,15 @@ If we take the evidentiary boundary seriously — if independently verified extr
 
 **What follows is not a claim that UAPs work this way. It is a map of what would have to be true if extreme kinematics were independently verified and no conventional explanation remained.** Every equation is either standard physics applied to an unsupported condition, or a speculative ansatz with no demonstrated basis. The boundary between the two is marked clearly.
 
+> ⚠️ **Not a mechanism.** The following is a conditional exploration of what physics would need to permit. No demonstrated physics supports any element below. See [Editorial Principles](../style/editorial-principles.md).
+
 ## III.1 The Conditional Frame
 
 If independently verified sensor data ever established performance beyond known aerospace, plasma, sensor, atmospheric, and electronic-warfare explanations — extreme accelerations without thermal signature, transmedium motion without drag, instantaneous velocity changes without structural stress — then new physics or unknown engineering would become a serious possibility. But the public record has not reached that threshold. AARO's reports state explicitly that they have found no verified evidence of extraterrestrial technology; NASA's Independent Study Team reached the same conclusion; and the vast majority of resolved cases have conventional explanations. [^2^][^16^]
 
 Within this conditional frame, the speculative scenario below explores what physics would need to permit certain classes of extreme performance. Every element is marked as either established physics applied to an unsupported condition, or a speculative ansatz with no demonstrated basis.
+
+> ⚠️ **Not a mechanism.** The following is a conditional exploration of what physics would need to permit. No demonstrated physics supports any element below. See [Editorial Principles](../style/editorial-principles.md).
 
 ## III.2 Macroscopic Quantum Coherence
 
@@ -199,8 +203,10 @@ The Lindblad operators $L_k$ and rates $\gamma_k$ determine the decoherence chan
 ### Speculative Extensions (No Demonstrated Basis)
 
 - **Topological quantum matter** with protected surface states that resist decoherence at macroscopic scales. Such states are an active research area; scaling to vehicle sizes is unsupported.
-- **Active quantum control** — quantum error correction applied to a macroscopic object. No such demonstration exists for any system larger than a few kilograms, let alone a vehicle interacting with atmosphere at Mach speeds.
+- **Active quantum control** — quantum error correction applied to a macroscopic object. No such demonstration exists for the relevant macroscopic degrees of freedom of a room-temperature extended object, let alone a vehicle interacting with atmosphere or water.
 - **Casimir engineering** — modifying boundary conditions to suppress certain vacuum modes. This is real at small scales (nanometers to micrometers); scaling it to a vehicle is unsupported.
+
+> ⚠️ **Not a mechanism.** The following is a conditional exploration of what physics would need to permit. No demonstrated physics supports any element below. See [Editorial Principles](../style/editorial-principles.md).
 
 ## III.3 Inertial Mass Reduction (Speculative Ansatz)
 
@@ -220,6 +226,8 @@ Here $\alpha = 0$ is normal inertia; $\alpha = 1$ is complete cancellation. Ther
 
 The Sakharov-Puthoff hypothesis has been subject to detailed criticism in the peer-reviewed literature, with Levin (2009) demonstrating that the original Haisch-Rueda-Puthoff formulation contained incorrect physical and mathematical assumptions, that the force considered was fundamentally relativistic and equal to zero, and that the sign of the final force expression was wrong. [^48^] This hypothesis is not mainstream physics and cannot serve as a foundation for engineering scenarios without extensive qualification.
 
+> ⚠️ **Not a mechanism.** The following is a conditional exploration of what physics would need to permit. No demonstrated physics supports any element below. See [Editorial Principles](../style/editorial-principles.md).
+
 ## III.4 Drag Suppression (Unsupported)
 
 Classical drag is governed by the Navier–Stokes equations:
@@ -227,6 +235,8 @@ Classical drag is governed by the Navier–Stokes equations:
 $$F_D = \frac{1}{2} \rho v^2 C_D A$$
 
 The speculative scenario would require a boundary interaction that suppresses thermalization with the surrounding medium — no shocks, no cavitation. **No known macroscopic physics does this.** Proposals involving entanglement with oncoming fluid molecules face insurmountable scaling: a craft moving through air interacts with approximately $10^{25}$ molecules per second. Reversible quantum control at that rate is not merely unengineerable; it has no theoretical foundation in known quantum field theory.
+
+> ⚠️ **Not a mechanism.** The following is a conditional exploration of what physics would need to permit. No demonstrated physics supports any element below. See [Editorial Principles](../style/editorial-principles.md).
 
 ## III.5 Metric Engineering via Semiclassical Gravity
 
@@ -244,13 +254,17 @@ Vacuum energy is connected to gravity in semiclassical and cosmological contexts
 
 ## III.6 The Power Problem
 
+> ⚠️ **Not a mechanism.** The following is a conditional exploration of what physics would need to permit. No demonstrated physics supports any element below. See [Editorial Principles](../style/editorial-principles.md).
+
+The following estimate is a **punitive order-of-magnitude heuristic**, not a physical requirement derived from a concrete control model. It shows the scale of the obstacle, not a design parameter.
+
 Suppose the craft attempts to maintain coherence via dynamical decoupling. The power required to suppress natural decoherence scales as:
 
 $$P(\alpha) \sim \alpha^2 \frac{m_0 c^2}{\tau_{\text{dec}}}$$
 
 For $m_0 = 10^4$ kg and $\tau_{\text{dec}} \sim 10^{-30}$ s, $P \sim 10^{50}$ W. This is not merely impractical; it exceeds the power output of the Sun by many orders of magnitude.
 
-Quantum error correction could, in principle, reduce this burden if a fault-tolerant threshold exists. But no quantum error correction has been demonstrated for any system larger than a few kilograms, let alone a vehicle interacting with atmosphere at Mach speeds. The problem is not that the engineering is hard; it is that the known physics of decoherence may be insurmountable for macroscopic objects in thermal environments.
+Quantum error correction could, in principle, reduce this burden if a fault-tolerant threshold exists. But no quantum error correction has been demonstrated for the relevant macroscopic degrees of freedom of a room-temperature extended object, let alone a vehicle interacting with atmosphere or water. The problem is not that the engineering is hard; it is that the known physics of decoherence may be insurmountable for macroscopic objects in thermal environments.
 
 ## III.7 Warp Constraints: Quantum Inequalities
 
@@ -300,6 +314,28 @@ The Schwinger critical field (~$1.3 \times 10^{18}$ V/m) is irrelevant to this s
 | Controllable inertia modification | No experiment has shown this. No accepted theory permits it. |
 | Unification of quantum fields and emergent spacetime at engineering scales | No such framework exists in the public literature. |
 | Public data forcing the existence of such phenomena | AARO and NASA explicitly state they have found no such evidence. [^2^][^16^] |
+
+---
+
+# Part IIIb: Recent Public Releases and Freshness Note
+
+This section tracks significant public developments since the manuscript was last compiled, to ensure the "missing data" argument reflects the current state of the public record.
+
+## AARO Case-Release Status
+
+As of June 2026, AARO has published formal case resolutions for several high-profile UAP incidents, including Aguadilla (March 2025), GoFast (2024), and others listed on the AARO website. [^2^] The office continues to process cases from its FY2024 intake of 757 reports, with 444 archived for insufficient data. No resolved case has yielded verified evidence of extraterrestrial technology or exotic physics. The case-release program itself represents a transparency improvement, though critics note that raw sensor data and full metadata remain unavailable for independent analysis in most cases.
+
+## 2025 AARO Workshop
+
+AARO hosted a 2025 workshop producing a white paper on UAP narrative data and infrastructure. The workshop examined how UAP narratives propagate through public and classified channels and considered data infrastructure improvements for future collection. This is relevant to the manuscript's argument because it acknowledges — from within the U.S. government — that the data infrastructure for UAP assessment has been inadequate, which is precisely the "missing floor" this manuscript identifies.
+
+## Post-2025 Public Releases
+
+No post-2025 public release has altered the manuscript's core thesis. No verified extraterrestrial craft, biologics, or exotic propulsion materials have been publicly demonstrated. The NASA Independent Study Team's September 2023 conclusion — that current data quality is insufficient to draw scientific conclusions about UAP origin — remains the most recent authoritative scientific assessment. [^16^] Congressional oversight continues, but no hearing has produced primary evidence (craft, materials, sensor data) in unclassified form.
+
+## Freshness Assessment
+
+The manuscript's argument is strengthened, not weakened, by these developments. AARO's ongoing case releases show that conventional explanations account for most resolved cases. The 2025 workshop's acknowledgment of data infrastructure gaps reinforces the demand for raw sensor data. The absence of any verified exotic-physics finding in any public release confirms that the "missing floor" remains missing — the gap between reported anomalies and demonstrated phenomena persists.
 
 ---
 
@@ -365,15 +401,15 @@ The subversive stance is not to replace one conspiracy with another. It is to ho
 [^12^]: Grusch testified to interviewing over 40 witnesses during his UAP Task Force tenure. See hearing transcript, July 26, 2023.
 [^13^]: Analysis of Aguadilla footage by AARO, Metabunk (Mick West), and SCU. Raw sensor data with full metadata has not been publicly released.
 [^14^]: Scientific Coalition for UAP Studies (SCU), *Aurora/Texas Meteors and the 2013 Aguadilla, Puerto Rico UAP* report.
-[^15^]: AARO, *Case Resolution: Aguadilla, Puerto Rico (April 25, 2013)*, March 2025.
+[^15^]: AARO, *Case Resolution: Aguadilla, Puerto Rico (April 25–26, 2013)*, March 2025.
 [^16^]: NASA Independent Study Team on UAP, *Report on Unidentified Anomalous Phenomena*, September 2023.
 [^19^]: NASA Independent Study Team on UAP, September 2023. GoFast geometric analysis based on ATFLIR on-screen data; NASA data quality assessment.
 [^20^]: AARO, *Case Resolution: GoFast (2015)*, 2024.
 [^23^]: F. Patereau et al. (ETH Zurich), "A macroscopic quantum mechanical object," *Nature Communications* 14, 5266 (2023). 16.2-microgram sapphire crystal superposition.
-[^25^]: For quantum gravity phenomenology, see C. Marletto and V. Vedral, "Gravitationally-induced quantum interference," *Nature Physics* 13, 1007 (2017); BridgeQG COST Action CA23140.
+[^25^]: For quantum gravity phenomenology, see C. Marletto and V. Vedral, "Gravitationally-induced quantum interference," *Nature Physics* 13, 1007 (2017); BridgeQG COST Action CA23130.
 [^26^]: E. Joos and H. D. Zeh, "The emergence of classical properties through interaction with the environment," *Zeitschrift für Physik B* 59, 223 (1985); K. Hornberger, in *Decoherence and the Quantum-to-Classical Transition* (Springer, 2008).
-[^27^]: Y. Y. Fein et al. (University of Vienna), "Quantum superposition of molecules beyond 25 kDa," *Nature Physics* 15, 1242 (2019); subsequent nanoparticle delocalization experiments, 2025–2026.
-[^28^]: BridgeQG COST Action CA23140 (2024–2028), coordinating tabletop quantum gravity experiments across European institutions.
+[^27^]: Y. Y. Fein et al. (University of Vienna), "Quantum superposition of molecules beyond 25 kDa," *Nature Physics* 15, 1242 (2019); S. Pedalino et al., "Probing quantum mechanics with nanoparticle matter-wave interferometry," *Nature* 649, 866–870 (2026). Sodium nanoparticles >170,000 Da, macroscopicity μ = 15.5.
+[^28^]: BridgeQG COST Action CA23130 (2024–2028), coordinating tabletop quantum gravity experiments across European institutions.
 [^30^]: For interpretation issues in GIE experiments, see R. B. Mann et al., "Can gravity be quantum?," *arXiv:2308.10907* (2023).
 [^32^]: B. C. Trillo and M. Navascués, "Gravity-mediated entanglement and the Diósi-Penrose model," 2023/2024.
 [^36^]: AARO, *Historical Record Report*, Volume 1, March 2024.
