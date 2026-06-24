@@ -65,10 +65,10 @@ Never paraphrase these findings into stronger or weaker claims than the source s
 When discussing speculative mechanisms, always include the experimental distance between current capabilities and the claimed capability:
 
 - Largest quantum superposition: ~16 micrograms (ETH Zurich, 2023).
-- Vehicle-scale object: ~10⁴ kg.
+- Vehicle-scale object: ~$10^4$ kg.
 - Gap: ~15 orders of magnitude.
-- Decoherence rate for 1 kg at room temperature: ~10³⁰ s⁻¹.
-- Power to suppress decoherence: ~10⁵⁰ W (exceeds solar output by many orders of magnitude).
+- Decoherence rate for 1 kg at room temperature: ~$10^{30} \text{ s}^{-1}$.
+- Power to suppress decoherence: ~$10^{50}$ W (exceeds solar output by many orders of magnitude).
 
 These numbers are not obstacles to be overcome by better engineering. They are boundaries that define what "known physics" currently permits.
 

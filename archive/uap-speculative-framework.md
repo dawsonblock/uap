@@ -14,7 +14,7 @@ Open quantum systems evolve via the Lindblad master equation:
 
 $$\frac{d\rho}{dt} = -\frac{i}{\hbar}[H, \rho] + \sum_k \gamma_k \left(L_k \rho L_k^\dagger - \frac{1}{2}\{L_k^\dagger L_k, \rho\}\right)$$
 
-The Lindblad operators $L_k$ and rates $\gamma_k$ determine the decoherence channels. For a macroscopic object in air at room temperature, decoherence rates are astronomical. For a 1 kg object, estimates place the rate at approximately 10³⁰ s⁻¹. To maintain coherence, the craft would need to suppress these rates by isolating relevant degrees of freedom or by an unknown mechanism that modifies the decoherence channels themselves.
+The Lindblad operators $L_k$ and rates $\gamma_k$ determine the decoherence channels. For a macroscopic object in air at room temperature, decoherence rates are astronomical. For a 1 kg object, estimates place the rate at approximately $10^{30} \text{ s}^{-1}$. To maintain coherence, the craft would need to suppress these rates by isolating relevant degrees of freedom or by an unknown mechanism that modifies the decoherence channels themselves.
 
 ### Speculative Extensions (No Demonstrated Basis)
 
@@ -40,7 +40,7 @@ $$m_i(\alpha) = m_0(1 - \alpha), \quad 0 \leq \alpha \leq 1$$
 
 Here $\alpha = 0$ is normal inertia; $\alpha = 1$ is complete cancellation. There is **no known physics that permits $\alpha > 0$**.
 
-**Standard physics counter:** The ZPF is a quantum field. Controlling modes up to the electron Compton frequency (~10²⁰ Hz) across macroscopic volumes is not an engineering challenge; it is a physical void. No known material, field, or metamaterial can phase-lock vacuum fluctuations.
+**Standard physics counter:** The ZPF is a quantum field. Controlling modes up to the electron Compton frequency (~$10^{20}$ Hz) across macroscopic volumes is not an engineering challenge; it is a physical void. No known material, field, or metamaterial can phase-lock vacuum fluctuations.
 
 The Sakharov-Puthoff hypothesis has been subject to detailed criticism in the peer-reviewed literature, with Levin (2009) demonstrating that the original Haisch-Rueda-Puthoff formulation contained incorrect physical and mathematical assumptions, that the force considered was fundamentally relativistic and equal to zero, and that the sign of the final force expression was wrong. [^48^] This hypothesis is not mainstream physics and cannot serve as a foundation for engineering scenarios without extensive qualification.
 
@@ -50,7 +50,7 @@ Classical drag is governed by the Navier–Stokes equations:
 
 $$F_D = \frac{1}{2} \rho v^2 C_D A$$
 
-The speculative scenario would require a boundary interaction that suppresses thermalization with the surrounding medium—no shocks, no cavitation. **No known macroscopic physics does this.** Proposals involving entanglement with oncoming fluid molecules face insurmountable scaling: a craft moving through air interacts with approximately 10²⁵ molecules per second. Reversible quantum control at that rate is not merely unengineerable; it has no theoretical foundation in known quantum field theory.
+The speculative scenario would require a boundary interaction that suppresses thermalization with the surrounding medium—no shocks, no cavitation. **No known macroscopic physics does this.** Proposals involving entanglement with oncoming fluid molecules face insurmountable scaling: a craft moving through air interacts with approximately $10^{25}$ molecules per second. Reversible quantum control at that rate is not merely unengineerable; it has no theoretical foundation in known quantum field theory.
 
 ### 2.3 Metric Engineering via Semiclassical Gravity
 
@@ -62,7 +62,7 @@ This equation is valid in semiclassical gravity. The **speculative leap** is tha
 
 $$a = -\nabla\Phi$$
 
-If the craft's inertial mass were near zero (by the unsupported ansatz above), this acceleration could be extreme. The energy density required for 1000 g acceleration of a 10-ton craft is approximately 10¹⁵ J/m³—nuclear energy densities, not impossible in principle, but requiring a coherent quantum stress-energy that has never been demonstrated.
+If the craft's inertial mass were near zero (by the unsupported ansatz above), this acceleration could be extreme. The energy density required for 1000 g acceleration of a 10-ton craft is approximately $10^{15} \text{ J/m}^3$ — nuclear energy densities, not impossible in principle, but requiring a coherent quantum stress-energy that has never been demonstrated.
 
 Vacuum energy is connected to gravity in semiclassical and cosmological contexts, but controllable vacuum-stress engineering has not been demonstrated. **No macroscopic object has ever produced a measurable, controllable metric perturbation through quantum coherence.**
 
@@ -72,7 +72,7 @@ Vacuum energy is connected to gravity in semiclassical and cosmological contexts
 
 If the scenario were possible, it would require:
 
-1. **Macroscopic quantum coherence at vehicle scales**, maintained against thermal and environmental noise. The largest coherent objects in labs are still microscopic (16.2 micrograms, ETH Zurich 2023). The gap to a 10⁴ kg craft is fifteen orders of magnitude.
+1. **Macroscopic quantum coherence at vehicle scales**, maintained against thermal and environmental noise. The largest coherent objects in labs are still microscopic (16.2 micrograms, ETH Zurich 2023). The gap to a $10^4$ kg craft is fifteen orders of magnitude.
 2. **Unknown inertia-modification mechanism.** No accepted theory permits controllable reduction of inertial mass. The Sakharov–Puthoff hypothesis is not mainstream physics.
 3. **Unknown fluid-interaction mechanism.** No known physics permits reversible, coherence-preserving interaction with a macroscopic fluid flow.
 4. **Controllable semiclassical stress-energy.** No experiment demonstrates that a quantum system can engineer its own gravitational field for propulsion.
@@ -96,13 +96,13 @@ Quantum error correction could, in principle, reduce this burden if a fault-tole
 
 No experiment has demonstrated:
 
-- Macroscopic quantum coherence of an object larger than ~10⁻⁵ g (16.2 micrograms).
+- Macroscopic quantum coherence of an object larger than ~$10^{-5}$ g (16.2 micrograms).
 - Phase-locking of vacuum fluctuations for inertia modification.
 - Drag suppression through quantum boundary effects.
 - Coherent gravitational gradient generation from quantum stress-energy.
 - A stable, macroscopic negative-energy configuration that evades the Ford–Roman quantum inequalities.
 
-The Schwinger critical field (~1.3 × 10¹⁸ V/m) is irrelevant to this scenario; the required field strengths for vacuum polarization engineering are closer to the Planck scale. Quantum inequalities constrain negative energy densities to be small and short-lived, severely limiting warp-like metric effects. No known configuration evades these limits.
+The Schwinger critical field (~$1.3 \times 10^{18} \text{ V/m}$) is irrelevant to this scenario; the required field strengths for vacuum polarization engineering are closer to the Planck scale. Quantum inequalities constrain negative energy densities to be small and short-lived, severely limiting warp-like metric effects. No known configuration evades these limits.
 
 ## 6. Quantum Gravity Phenomenology: The Tabletop Frontier
 

@@ -68,7 +68,7 @@ This file consolidates all references cited across the manuscript bundle. Where 
 
 [^53^]: H. B. G. Casimir, "On the attraction between two perfectly conducting plates," *Proc. K. Ned. Akad. Wet.* 51, 793 (1948). S. K. Lamoreaux, "Demonstration of the Casimir force in the 0.6 to 6 μm range," *Physical Review Letters* 78, 5 (1997). DOI: [10.1103/PhysRevLett.78.5](https://doi.org/10.1103/PhysRevLett.78.5).
 
-[^56^]: J. Schwinger, "On gauge invariance and vacuum polarization," *Physical Review* 82, 664 (1951). DOI: [10.1103/PhysRev.82.664](https://doi.org/10.1103/PhysRev.82.664). Critical field E_c ≈ 1.3 × 10¹⁸ V/m.
+[^56^]: J. Schwinger, "On gauge invariance and vacuum polarization," *Physical Review* 82, 664 (1951). DOI: [10.1103/PhysRev.82.664](https://doi.org/10.1103/PhysRev.82.664). Critical field $E_c \approx 1.3 \times 10^{18} \text{ V/m}$.
 
 ---
 
@@ -92,6 +92,6 @@ This file consolidates all references cited across the manuscript bundle. Where 
 
 [^73^]: B. Helou et al., "LISA Pathfinder and collapse models," *Physical Review D* 97, 084040 (2018). DOI: [10.1103/PhysRevD.97.084040](https://doi.org/10.1103/PhysRevD.97.084040). Constraints on CSL at kilogram scale.
 
-[^74^]: Diósi-Penrose regularization cutoff placed at σ_DP ≈ 285.5 fm; see subsequent analysis of Gran Sasso germanium detector results.
+[^74^]: Diósi-Penrose regularization cutoff placed at $\sigma_{\text{DP}} \approx 285.5$ fm; see subsequent analysis of Gran Sasso germanium detector results.
 
 [^82^]: A. Kumakhov et al., testing the Diósi-Penrose model with germanium detectors, Gran Sasso underground laboratory, 2020.

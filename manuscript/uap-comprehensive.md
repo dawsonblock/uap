@@ -304,7 +304,7 @@ No experiment has demonstrated:
 - Coherent gravitational gradient generation from quantum stress-energy.
 - A stable, macroscopic negative-energy configuration that evades the Ford–Roman quantum inequalities.
 
-The Schwinger critical field (~$1.3 \times 10^{18}$ V/m) is irrelevant to this scenario; the required field strengths for vacuum polarization engineering are closer to the Planck scale. Quantum inequalities constrain negative energy densities to be small and short-lived, severely limiting warp-like metric effects. No known configuration evades these limits.
+The Schwinger critical field (~$1.3 \times 10^{18} \text{ V/m}$) is irrelevant to this scenario; the required field strengths for vacuum polarization engineering are closer to the Planck scale. Quantum inequalities constrain negative energy densities to be small and short-lived, severely limiting warp-like metric effects. No known configuration evades these limits.
 
 ## III.11 The Razor Table
 
@@ -417,13 +417,13 @@ The subversive stance is not to replace one conspiracy with another. It is to ho
 [^49^]: S. Pfenning and L. Ford, "The unphysical nature of 'warp drive'," *Classical and Quantum Gravity* 14, 1743 (1997).
 [^50^]: L. Ford and T. Roman, "Negative energy and quantum inequalities," *Physical Review D* 87, 064010 (2013); subsequent work on pulse-train protocols and averaged null energy conditions.
 [^53^]: H. B. G. Casimir, "On the attraction between two perfectly conducting plates," *Proc. K. Ned. Akad. Wet.* 51, 793 (1948); S. K. Lamoreaux, *Physical Review Letters* 78, 5 (1997).
-[^56^]: J. Schwinger, "On gauge invariance and vacuum polarization," *Physical Review* 82, 664 (1951). Critical field E_c ≈ 1.3 × 10¹⁸ V/m.
+[^56^]: J. Schwinger, "On gauge invariance and vacuum polarization," *Physical Review* 82, 664 (1951). Critical field $E_c \approx 1.3 \times 10^{18} \text{ V/m}$.
 [^62^]: Nimitz incident public record: USS Princeton SPY-1 radar data, ATFLIR video, witness accounts (Fravor, Dietrich, et al.), November 14, 2004.
 [^63^]: GoFast geometric reconstruction based on ATFLIR display data; see analysis by Metabunk (Mick West) and AARO case resolution.
 [^69^]: AARO reporting guidance, 50 U.S.C. § 3373; AARO User Guide for UAP Reporting.
 [^72^]: VIP-2 Collaboration, improved bounds on CSL collapse models, Gran Sasso underground laboratory.
 [^73^]: B. Helou et al., "LISA Pathfinder and collapse models," *Physical Review D* 97, 084040 (2018); constraints on CSL at kilogram scale.
-[^74^]: Diósi-Penrose regularization cutoff placed at σ_DP ≈ 285.5 fm; see subsequent analysis of Gran Sasso germanium detector results.
+[^74^]: Diósi-Penrose regularization cutoff placed at $\sigma_{\text{DP}} \approx 285.5$ fm; see subsequent analysis of Gran Sasso germanium detector results.
 [^76^]: J. M. Maldacena, "The large N limit of superconformal field theories and supergravity," *Adv. Theor. Math. Phys.* 2, 231 (1998). AdS/CFT correspondence.
 [^78^]: J. Maldacena and L. Susskind, "Cool horizons for entangled black holes," *Fortsch. Phys.* 61, 781 (2013). ER=EPR conjecture.
 [^79^]: M. Van Raamsdonk, "Building up spacetime with quantum entanglement," *Gen. Rel. Grav.* 42, 2323 (2010).

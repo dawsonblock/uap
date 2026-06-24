@@ -16,6 +16,6 @@ Primary source: COST Action page for `CA23130`.
 
 ## Speculative physics language
 
-The expression `P(α) ~ α² m₀ c² / τ_dec` is used only as a punitive order-of-magnitude heuristic for decoherence-control burden. It is not a derived propulsion power law and should never be presented as one.
+The expression $P(\alpha) \sim \alpha^2 m_0 c^2 / \tau_{\text{dec}}$ is used only as a punitive order-of-magnitude heuristic for decoherence-control burden. It is not a derived propulsion power law and should never be presented as one.
 
 Quantum error correction language should refer to the lack of demonstration for the relevant macroscopic degrees of freedom of a room-temperature extended object. Avoid mass-threshold wording that confuses object mass with protected degrees of freedom.

@@ -114,7 +114,7 @@ No experiment has demonstrated:
 - Coherent gravitational gradient generation from quantum stress-energy.
 - A stable, macroscopic negative-energy configuration that evades the Ford–Roman quantum inequalities.
 
-The Schwinger critical field (~$1.3 \times 10^{18}$ V/m) is irrelevant to this scenario; the required field strengths for vacuum polarization engineering are closer to the Planck scale. Quantum inequalities constrain negative energy densities to be small and short-lived, severely limiting warp-like metric effects. No known configuration evades these limits.
+The Schwinger critical field (~$1.3 \times 10^{18} \text{ V/m}$) is irrelevant to this scenario; the required field strengths for vacuum polarization engineering are closer to the Planck scale. Quantum inequalities constrain negative energy densities to be small and short-lived, severely limiting warp-like metric effects. No known configuration evades these limits.
 
 ## 6. Quantum Gravity Phenomenology: The Tabletop Frontier
 
