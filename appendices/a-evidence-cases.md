@@ -36,7 +36,7 @@ David Grusch's public statements assert that he was informed of a crash-retrieva
 
 ## Aguadilla
 
-In March 2025, AARO released a report on the Puerto Rico incidents, including the 2013 Aguadilla video (April 25–26, 2013; local time/UTC discrepancy in source materials). AARO concluded that the objects did not exhibit anomalous behavior or transmedium capability, that the video shows two objects rather than one splitting in two, and that AARO has moderate confidence they were sky lanterns. [^15^] The Scientific Coalition for UAP Studies (SCU) has submitted technical questions to AARO and was awaiting fuller answers at the time of writing. [^14^][^13^] SCU's critique of AARO's methodology is a legitimate scientific disagreement. It is not, by itself, a refutation of AARO's conclusion or proof of exotic behavior. The honest position is: AARO's interpretation is one resolution; SCU's questions are valid; neither constitutes proof of non-human technology.
+In March 2025, AARO released a report on the Puerto Rico incidents, including the 2013 Aguadilla video. AARO lists the date as April 26, 2013; some third-party analyses use April 25, likely because of timestamp or source-material differences. AARO concluded that the objects did not exhibit anomalous behavior or transmedium capability, that the video shows two objects rather than one splitting in two, and that AARO has moderate confidence they were sky lanterns. [^15^] The Scientific Coalition for UAP Studies (SCU) has submitted technical questions to AARO and was awaiting fuller answers at the time of writing. [^14^][^13^] SCU's critique of AARO's methodology is a legitimate scientific disagreement. It is not, by itself, a refutation of AARO's conclusion or proof of exotic behavior. The honest position is: AARO's interpretation is one resolution; SCU's questions are valid; neither constitutes proof of non-human technology.
 
 ## GoFast
 
@@ -56,7 +56,7 @@ Classification is a real and powerful tool. It explains why certain sensor data,
 
 ## AARO FY2024 Statistics
 
-AARO's FY2024 Annual Report (covering May 2023–June 2024) states: 757 reports received, 708 in the air domain, zero in the transmedium domain; 444 cases archived for lack of sufficient data; no verified evidence of extraterrestrial beings, activity, or technology. [^36^] AARO's Director acknowledged in November 2024 that some cases are "true anomalies" he does not understand — but this is an admission of insufficient data, not confirmation of exotic physics.
+AARO's FY2024 Annual Report (covering May 2023–June 2024) states: 757 reports received, 708 in the air domain, zero in the transmedium domain; 444 cases remained unresolved or lacked sufficient data for closure; no verified evidence of extraterrestrial beings, activity, or technology. [^36^] AARO's Director acknowledged in November 2024 that some cases are "true anomalies" he does not understand — but this is an admission of insufficient data, not confirmation of exotic physics.
 
 ---
 
@@ -67,7 +67,7 @@ AARO's FY2024 Annual Report (covering May 2023–June 2024) states: 757 reports 
 [^9^]: House Committee on Oversight and Accountability, *Unidentified Anomalous Phenomena Hearing*, July 26, 2023. Sworn testimony of David Grusch.
 [^13^]: Analysis of Aguadilla footage by AARO, Metabunk (Mick West), and SCU. Raw sensor data with full metadata has not been publicly released.
 [^14^]: Scientific Coalition for UAP Studies (SCU), *Aurora/Texas Meteors and the 2013 Aguadilla, Puerto Rico UAP* report.
-[^15^]: AARO, *Case Resolution: Aguadilla, Puerto Rico (April 25–26, 2013)*, March 2025.
+[^15^]: AARO, *Case Resolution: Aguadilla, Puerto Rico (April 26, 2013)*, March 2025.
 [^16^]: NASA Independent Study Team on UAP, *Report on Unidentified Anomalous Phenomena*, September 2023.
 [^19^]: NASA Independent Study Team on UAP, September 2023. GoFast geometric analysis based on ATFLIR on-screen data; NASA data quality assessment.
 [^20^]: AARO, *Case Resolution: GoFast (2015)*, 2024.

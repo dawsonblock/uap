@@ -20,7 +20,7 @@ Open quantum systems evolve via the Lindblad master equation:
 
 $$\frac{d\rho}{dt} = -\frac{i}{\hbar}[H, \rho] + \sum_k \gamma_k \left(L_k \rho L_k^\dagger - \frac{1}{2}\{L_k^\dagger L_k, \rho\}\right)$$
 
-The Lindblad operators $L_k$ and rates $\gamma_k$ determine the decoherence channels. For a macroscopic object in air at room temperature, decoherence rates are astronomical. For a 1 kg object, estimates place the rate at approximately $10^{30} \text{ s}^{-1}$. To maintain coherence, the craft would need to suppress these rates by isolating relevant degrees of freedom or by an unknown mechanism that modifies the decoherence channels themselves.
+The Lindblad operators $L_k$ and rates $\gamma_k$ determine the decoherence channels. For a macroscopic object in air at room temperature, decoherence rates are astronomical. For a 1 kg object, order-of-magnitude estimates place the rate at approximately $10^{30} \text{ s}^{-1}$ (the exact rate depends on separation scale, scattering environment, temperature, object geometry, and the degree of freedom being coherently separated). To maintain coherence, the craft would need to suppress these rates by isolating relevant degrees of freedom or by an unknown mechanism that modifies the decoherence channels themselves.
 
 ### Speculative Extensions (No Demonstrated Basis)
 
@@ -58,7 +58,7 @@ Classical drag is governed by the Navier–Stokes equations:
 
 $$F_D = \frac{1}{2} \rho v^2 C_D A$$
 
-The speculative scenario would require a boundary interaction that suppresses thermalization with the surrounding medium — no shocks, no cavitation. **No known macroscopic physics does this.** Proposals involving entanglement with oncoming fluid molecules face insurmountable scaling: a craft moving through air interacts with approximately $10^{25}$ molecules per second. Reversible quantum control at that rate is not merely unengineerable; it has no theoretical foundation in known quantum field theory.
+The speculative scenario would require a boundary interaction that suppresses thermalization with the surrounding medium — no shocks, no cavitation. **No known macroscopic physics does this.** Proposals involving entanglement with oncoming fluid molecules face insurmountable scaling: a meter-scale craft moving at aircraft speeds through sea-level air interacts with on the order of $10^{25}$ molecules per second (assuming a cross-sectional area of ~1 m², a speed of ~300 m/s, and atmospheric number density ~$10^{25}$ m$^{-3}$). Reversible quantum control at that rate is not merely unengineerable; it has no theoretical foundation in known quantum field theory.
 
 ### 2.3 Metric Engineering via Semiclassical Gravity
 

@@ -55,7 +55,7 @@ Vacuum condensates as propulsion media, phase-locked zero-point fields for inert
 When citing official reports, quote the actual conclusions:
 
 - **NASA (September 2023):** "We find no evidence to suggest that UAP are extraterrestrial in origin." "A limited number of high-quality observations... currently make it impossible to draw firm scientific conclusions."
-- **AARO (FY2024):** "AARO has discovered no evidence of extraterrestrial beings, activity, or technology." 757 reports received, 708 in the air domain, zero in the transmedium domain; 444 cases archived for lack of sufficient data.
+- **AARO (FY2024):** "AARO has discovered no evidence of extraterrestrial beings, activity, or technology." 757 reports received, 708 in the air domain, zero in the transmedium domain; 444 cases remained unresolved or lacked sufficient data for closure.
 - **AARO Director (November 2024):** Some cases are "true anomalies" he does not understand. This is an admission of insufficient data, not confirmation of exotic physics.
 
 Never paraphrase these findings into stronger or weaker claims than the source supports.
@@ -67,7 +67,7 @@ When discussing speculative mechanisms, always include the experimental distance
 - Largest quantum superposition: ~16 micrograms (ETH Zurich, 2023).
 - Vehicle-scale object: ~$10^4$ kg.
 - Gap: ~15 orders of magnitude.
-- Decoherence rate for 1 kg at room temperature: ~$10^{30} \text{ s}^{-1}$.
+- Decoherence rate for 1 kg at room temperature: ~$10^{30} \text{ s}^{-1}$ (order-of-magnitude; geometry- and environment-dependent).
 - Power to suppress decoherence: ~$10^{50}$ W (exceeds solar output by many orders of magnitude).
 
 These numbers are not obstacles to be overcome by better engineering. They are boundaries that define what "known physics" currently permits.

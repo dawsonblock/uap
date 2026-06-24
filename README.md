@@ -8,6 +8,8 @@ A rigorous, evidence-bounded analysis of Unidentified Anomalous Phenomena (UAP) 
 uap/
 ├── README.md                          ← you are here
 ├── CHANGELOG.md                       ← revision history
+├── LICENSE                            ← CC BY-ND 4.0
+├── Makefile                           ← lint, check-refs, check-stale, build
 ├── .markdownlint.json                 ← lint configuration
 ├── manuscript/
 │   └── uap-comprehensive.md           ← main manuscript (4 parts)
@@ -20,7 +22,11 @@ uap/
 ├── references/
 │   ├── references.md                  ← consolidated bibliography with URLs/DOIs
 │   └── source-anchors.md              ← high-risk reference facts for verification
+├── scripts/
+│   ├── check_footnotes.py             ← verify footnote definitions match references
+│   └── check_stale_claims.py          ← scan for forbidden/stale strings
 └── archive/
+    ├── README.md                      ← non-canonical warning
     ├── uap-physics-map-bridge.md      ← original physics deep dive (superseded)
     ├── uap-speculative-framework.md   ← original speculative framework (superseded)
     ├── uap-missing-floor.md           ← original missing-floor essay (superseded)
@@ -44,12 +50,17 @@ uap/
 
 The public record does not contain verified evidence of extraterrestrial technology, exotic propulsion, or recovered craft. The only honest demand is for the raw sensor data, platform logs, radar tapes, and reconstruction methodology that would allow independent scientific assessment.
 
-## Lint
+## Lint & Checks
 
 ```bash
-markdownlint '**/*.md' --config .markdownlint.json
+make lint          # run markdownlint on all .md files
+make check-refs    # verify footnote definitions match references
+make check-stale   # scan canonical files for forbidden/stale strings
+make check         # run all checks (lint, check-refs, check-stale)
 ```
+
+See the [Makefile](Makefile) for details.
 
 ## License
 
-This manuscript is provided for educational and analytical purposes. All factual claims are sourced to publicly available documents and peer-reviewed literature. Speculative sections are explicitly marked as conditional.
+This manuscript is licensed under [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/). See the [LICENSE](LICENSE) file for the full legal text. You may share the material with attribution but may not distribute modified versions. All factual claims are sourced to publicly available documents and peer-reviewed literature. Speculative sections are explicitly marked as conditional.
