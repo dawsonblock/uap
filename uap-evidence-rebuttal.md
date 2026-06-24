@@ -63,3 +63,9 @@ The three rules stand:
 AARO's FY2024 Annual Report (covering May 2023–June 2024) states: 757 reports received, 708 in the air domain, zero in the transmedium domain; 444 cases archived for lack of sufficient data; no verified evidence of extraterrestrial beings, activity, or technology. AARO's Director acknowledged in November 2024 that some cases are "true anomalies" he does not understand — but this is an admission of insufficient data, not confirmation of exotic physics.
 
 The subversive stance is not to replace one conspiracy with another. It is to hold the line on these three rules until the data—raw sensor data, platform logs, reconstruction methodology, and unclassified scientific analysis—forces a different conclusion. The honest position is: we do not know, and we cannot know without the evidence that has been withheld. Demand the evidence. Reject all premature conclusions—alien or mundane—until it is released.
+
+---
+
+## References
+
+[^19^]: NASA Independent Study Team on UAP, *Report on Unidentified Anomalous Phenomena*, September 2023. Data quality assessment and GoFast geometric analysis.

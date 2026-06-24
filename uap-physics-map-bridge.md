@@ -233,4 +233,29 @@ The map is real. The gaps are genuine open problems in physics. The bridge is a 
 
 ---
 
+## References
+
+[^2^]: AARO, *Report on the Historical Record of U.S. Government Involvement with UAP*, Volume 1, March 2024; AARO FY2024 Annual Report.
+[^16^]: NASA Independent Study Team on UAP, *Report on Unidentified Anomalous Phenomena*, September 2023.
+[^23^]: F. Patereau et al. (ETH Zurich), "A macroscopic quantum mechanical object," *Nature Communications* 14, 5266 (2023). 16.2-microgram sapphire crystal superposition.
+[^25^]: For quantum gravity phenomenology, see C. Marletto and V. Vedral, "Gravitationally-induced quantum interference," *Nature Physics* 13, 1007 (2017); BridgeQG COST Action CA23140.
+[^26^]: E. Joos and H. D. Zeh, "The emergence of classical properties through interaction with the environment," *Zeitschrift für Physik B* 59, 223 (1985); K. Hornberger, in *Decoherence and the Quantum-to-Classical Transition* (Springer, 2008).
+[^27^]: Y. Y. Fein et al. (University of Vienna), "Quantum superposition of molecules beyond 25 kDa," *Nature Physics* 15, 1242 (2019); subsequent nanoparticle delocalization experiments, 2025–2026.
+[^28^]: BridgeQG COST Action CA23140 (2024–2028), coordinating tabletop quantum gravity experiments across European institutions.
+[^32^]: B. C. Trillo and M. Navascués, "Gravity-mediated entanglement and the Diósi-Penrose model," 2023/2024.
+[^48^]: B. H. J. Levin, "Inertia as a zero-point-field Lorentz force?," *Physical Review A* 79, 012114 (2009).
+[^49^]: S. Pfenning and L. Ford, "The unphysical nature of 'warp drive'," *Classical and Quantum Gravity* 14, 1743 (1997).
+[^50^]: L. Ford and T. Roman, "Negative energy and quantum inequalities," *Physical Review D* 87, 064010 (2013); subsequent work on pulse-train protocols and averaged null energy conditions.
+[^53^]: H. B. G. Casimir, "On the attraction between two perfectly conducting plates," *Proc. K. Ned. Akad. Wet.* 51, 793 (1948); S. K. Lamoreaux, *Physical Review Letters* 78, 5 (1997).
+[^56^]: J. Schwinger, "On gauge invariance and vacuum polarization," *Physical Review* 82, 664 (1951). Critical field E_c ≈ 1.3 × 10¹⁸ V/m.
+[^72^]: VIP-2 Collaboration, improved bounds on CSL collapse models, Gran Sasso underground laboratory.
+[^73^]: B. Helou et al., "LISA Pathfinder and collapse models," *Physical Review D* 97, 084040 (2018); constraints on CSL at kilogram scale.
+[^74^]: Diósi-Penrose regularization cutoff placed at σ_DP ≈ 285.5 fm; see subsequent analysis of Gran Sasso germanium detector results.
+[^76^]: J. M. Maldacena, "The large N limit of superconformal field theories and supergravity," *Adv. Theor. Math. Phys.* 2, 231 (1998). AdS/CFT correspondence.
+[^78^]: J. Maldacena and L. Susskind, "Cool horizons for entangled black holes," *Fortsch. Phys.* 61, 781 (2013). ER=EPR conjecture.
+[^79^]: M. Van Raamsdonk, "Building up spacetime with quantum entanglement," *Gen. Rel. Grav.* 42, 2323 (2010).
+[^82^]: A. Kumakhov et al., testing the Diósi-Penrose model with germanium detectors, Gran Sasso underground laboratory, 2020.
+
+---
+
 *Document compiled June 2026. All factual claims are sourced to publicly available documents and peer-reviewed literature. Speculative sections are explicitly marked as conditional.*

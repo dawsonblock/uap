@@ -112,4 +112,13 @@ The most honest speculative model is this: a macroscopic quantum system that som
 
 The conditional remains: if independently verified data ever established extreme kinematics beyond all conventional explanation, then the quantum-classical boundary would be one speculative area to examine—not the required answer, not a ranked explanation, and not a blueprint. The public record does not meet that condition.
 
+---
+
+## References
+
+[^25^]: For quantum gravity phenomenology, see C. Marletto and V. Vedral, "Gravitationally-induced quantum interference," *Nature Physics* 13, 1007 (2017); BridgeQG COST Action CA23140.
+[^28^]: BridgeQG COST Action CA23140 (2024–2028), coordinating tabletop quantum gravity experiments across European institutions.
+[^32^]: B. C. Trillo and M. Navascués, "Gravity-mediated entanglement and the Diósi-Penrose model," 2023/2024.
+[^48^]: B. H. J. Levin, "Inertia as a zero-point-field Lorentz force?," *Physical Review A* 79, 012114 (2009).
+
 The only honest weapon is unchanged: **demand the radar tapes, the sensor metadata, the platform logs, the reconstruction methodology.** Let us test whether the gap is real or a shadow of missing information. The math is a map of the void, not a bridge across it.
