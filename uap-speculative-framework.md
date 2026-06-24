@@ -17,7 +17,7 @@ The Lindblad operators $L_k$ and rates $\gamma_k$ determine the decoherence chan
 ### Speculative Extensions (No Demonstrated Basis)
 
 - **Topological quantum matter** with protected surface states that resist decoherence at macroscopic scales. Such states are an active research area; scaling to vehicle sizes is unsupported.
-- **Active quantum control** — quantum error correction applied to a macroscopic object. No such demonstration exists for any system larger than a few kilograms, let alone a vehicle interacting with atmosphere at Mach speeds.
+- **Active quantum control** — quantum error correction applied to a macroscopic object. No such demonstration exists for the relevant macroscopic degrees of freedom of a room-temperature extended object, let alone a vehicle interacting with atmosphere at Mach speeds.
 - **Casimir engineering** — modifying boundary conditions to suppress certain vacuum modes. This is real at small scales (nanometers to micrometers); scaling it to a vehicle is unsupported.
 
 ## 2. Mathematical Framework: The Modified Lindblad and Semiclassical Gravity
@@ -74,13 +74,13 @@ If the scenario were possible, it would require:
 
 ## 4. The Power Problem
 
-Suppose the craft attempts to maintain coherence via dynamical decoupling. The power required to suppress natural decoherence scales as:
+As a punitive order-of-magnitude heuristic, not a derived propulsion power law, suppose the craft attempts to maintain coherence via dynamical decoupling. A deliberately conservative dimensional estimate for the power required to suppress natural decoherence is:
 
 $$P(\alpha) \sim \alpha^2 \frac{m_0 c^2}{\tau_{\text{dec}}}$$
 
 For $m_0 = 10^4$ kg and $\tau_{\text{dec}} \sim 10^{-30}$ s, $P \sim 10^{50}$ W. This is not merely impractical; it exceeds the power output of the Sun by many orders of magnitude.
 
-Quantum error correction could, in principle, reduce this burden if a fault-tolerant threshold exists. But no quantum error correction has been demonstrated for any system larger than a few kilograms, let alone a vehicle interacting with atmosphere at Mach speeds. The problem is not that the engineering is hard; it is that the known physics of decoherence may be insurmountable for macroscopic objects in thermal environments.
+Quantum error correction could, in principle, reduce this burden if a fault-tolerant threshold exists. But no quantum error correction has been demonstrated for the relevant macroscopic degrees of freedom of a room-temperature extended object, let alone a vehicle interacting with atmosphere at Mach speeds. The problem is not that the engineering is hard; it is that the known physics of decoherence may be insurmountable for macroscopic objects in thermal environments.
 
 ## 5. The Experimental Gap
 
@@ -116,8 +116,8 @@ The conditional remains: if independently verified data ever established extreme
 
 ## References
 
-[^25^]: For quantum gravity phenomenology, see C. Marletto and V. Vedral, "Gravitationally-induced quantum interference," *Nature Physics* 13, 1007 (2017); BridgeQG COST Action CA23140.
-[^28^]: BridgeQG COST Action CA23140 (2024–2028), coordinating tabletop quantum gravity experiments across European institutions.
+[^25^]: For quantum gravity phenomenology, see C. Marletto and V. Vedral, "Gravitationally-induced quantum interference," *Nature Physics* 13, 1007 (2017); BridgeQG COST Action CA23130.
+[^28^]: BridgeQG COST Action CA23130 (2024–2028), coordinating tabletop quantum gravity experiments across European institutions.
 [^32^]: B. C. Trillo and M. Navascués, "Gravity-mediated entanglement and the Diósi-Penrose model," 2023/2024.
 [^48^]: B. H. J. Levin, "Inertia as a zero-point-field Lorentz force?," *Physical Review A* 79, 012114 (2009).
 
