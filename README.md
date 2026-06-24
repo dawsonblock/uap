@@ -21,7 +21,6 @@ The canonical manuscript is `uap-comprehensive.md`. The other files are supporti
 | `uap-speculative-framework.md` | Standalone conditional physics appendix. |
 | `uap-editorial-principles.md` | Writing and review rules for avoiding overclaiming. |
 | `REFERENCES.md` | Source anchors for the most error-prone public-record facts. |
-| `archive/` | Preserved older draft material that should not be treated as canonical. |
 
 ## Publication rules
 
