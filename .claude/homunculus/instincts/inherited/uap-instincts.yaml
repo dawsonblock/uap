@@ -1,0 +1,349 @@
+# Instincts generated from https://github.com/dawsonblock/uap
+# Generated: 2026-06-24T19:49:20.326Z
+# Version: 2.0
+# NOTE: This file supplements (does not replace) any existing curated instincts.
+# High-confidence manually curated instincts should be preserved alongside these.
+
+---
+id: uap-commit-length
+trigger: "when writing a commit message"
+confidence: 0.6
+domain: git
+source: repo-analysis
+source_repo: https://github.com/dawsonblock/uap
+---
+
+# Uap Commit Length
+
+## Action
+
+Keep commit messages concise (~30 characters)
+
+## Evidence
+
+- Average commit message length: 30 chars
+- Based on 8 commits
+
+---
+id: uap-naming-files
+trigger: "when creating a new file"
+confidence: 0.8
+domain: code-style
+source: repo-analysis
+source_repo: https://github.com/dawsonblock/uap
+---
+
+# Uap Naming Files
+
+## Action
+
+Use PascalCase naming convention
+
+## Evidence
+
+- Analyzed file naming patterns in repository
+- Dominant pattern: PascalCase
+
+---
+id: uap-import-relative
+trigger: "when importing modules"
+confidence: 0.75
+domain: code-style
+source: repo-analysis
+source_repo: https://github.com/dawsonblock/uap
+---
+
+# Uap Import Relative
+
+## Action
+
+Use relative imports for project files
+
+## Evidence
+
+- Import analysis shows relative import pattern
+- Example: import { x } from '../lib/x'
+
+---
+id: uap-export-style
+trigger: "when exporting from a module"
+confidence: 0.7
+domain: code-style
+source: repo-analysis
+source_repo: https://github.com/dawsonblock/uap
+---
+
+# Uap Export Style
+
+## Action
+
+Prefer named exports
+
+## Evidence
+
+- Export pattern analysis
+- Dominant style: named
+
+---
+id: uap-test-separate
+trigger: "when writing tests"
+confidence: 0.8
+domain: testing
+source: repo-analysis
+source_repo: https://github.com/dawsonblock/uap
+---
+
+# Uap Test Separate
+
+## Action
+
+Place tests in the tests/ or __tests__/ directory, mirroring src structure
+
+## Evidence
+
+- Separate test directory pattern detected
+- Tests live in dedicated test folders
+
+---
+id: uap-workflow-update-documentation-file
+trigger: "when doing update documentation file"
+confidence: 0.65
+domain: workflow
+source: repo-analysis
+source_repo: https://github.com/dawsonblock/uap
+---
+
+# Uap Workflow Update Documentation File
+
+## Action
+
+Follow the update-documentation-file workflow:
+1. Edit the relevant documentation file (e.g., README.md, REFERENCES.md, CHANGELOG.md, or other .md files).
+2. Commit the changes with a descriptive message.
+
+## Evidence
+
+- Workflow detected from commit patterns
+- Frequency: ~3x per month
+- Files: README.md, REFERENCES.md, CHANGELOG.md
+
+---
+id: uap-workflow-fix-or-rewrite-domain-specific-manuscript
+trigger: "when doing fix or rewrite domain specific manuscript"
+confidence: 0.65
+domain: workflow
+source: repo-analysis
+source_repo: https://github.com/dawsonblock/uap
+---
+
+# Uap Workflow Fix Or Rewrite Domain Specific Manuscript
+
+## Action
+
+Follow the fix-or-rewrite-domain-specific-manuscript workflow:
+1. Identify the manuscript file requiring changes (e.g., uap-speculative-framework.md, uap-comprehensive.md, uap-physics-map-bridge.md).
+2. Edit the file to fix errors or rewrite content.
+3. Commit the changes with a message indicating the fix or rewrite.
+
+## Evidence
+
+- Workflow detected from commit patterns
+- Frequency: ~3x per month
+- Files: uap-speculative-framework.md, uap-comprehensive.md, uap-physics-map-bridge.md
+
+---
+id: uap-instinct-file-naming
+trigger: "When creating or renaming a file in the codebase"
+confidence: 0.9
+domain: code-style
+source: repo-analysis
+source_repo: dawsonblock/uap
+---
+
+# Uap Instinct File Naming
+
+## Action
+
+Use PascalCase for file names
+
+## Evidence
+
+- Pattern in codeStyle.namingConventions.files
+
+---
+id: uap-instinct-function-naming
+trigger: "When defining a function"
+confidence: 0.9
+domain: code-style
+source: repo-analysis
+source_repo: dawsonblock/uap
+---
+
+# Uap Instinct Function Naming
+
+## Action
+
+Use camelCase for function names
+
+## Evidence
+
+- Pattern in codeStyle.namingConventions.functions
+
+---
+id: uap-instinct-class-naming
+trigger: "When defining a class"
+confidence: 0.9
+domain: code-style
+source: repo-analysis
+source_repo: dawsonblock/uap
+---
+
+# Uap Instinct Class Naming
+
+## Action
+
+Use PascalCase for class names
+
+## Evidence
+
+- Pattern in codeStyle.namingConventions.classes
+
+---
+id: uap-instinct-constant-naming
+trigger: "When declaring a constant"
+confidence: 0.9
+domain: code-style
+source: repo-analysis
+source_repo: dawsonblock/uap
+---
+
+# Uap Instinct Constant Naming
+
+## Action
+
+Use SCREAMING_SNAKE_CASE for constant names
+
+## Evidence
+
+- Pattern in codeStyle.namingConventions.constants
+
+---
+id: uap-instinct-import-style
+trigger: "When importing modules"
+confidence: 0.9
+domain: code-style
+source: repo-analysis
+source_repo: dawsonblock/uap
+---
+
+# Uap Instinct Import Style
+
+## Action
+
+Use relative import paths
+
+## Evidence
+
+- Pattern in codeStyle.importStyle
+
+---
+id: uap-instinct-export-style
+trigger: "When exporting modules or functions"
+confidence: 0.9
+domain: code-style
+source: repo-analysis
+source_repo: dawsonblock/uap
+---
+
+# Uap Instinct Export Style
+
+## Action
+
+Use named exports
+
+## Evidence
+
+- Pattern in codeStyle.exportStyle
+
+---
+id: uap-instinct-test-location
+trigger: "When adding or updating tests"
+confidence: 0.85
+domain: testing
+source: repo-analysis
+source_repo: dawsonblock/uap
+---
+
+# Uap Instinct Test Location
+
+## Action
+
+Place tests in a separate directory from source files
+
+## Evidence
+
+- Pattern in architecture.folderStructure.testLocation
+
+---
+id: uap-instinct-commit-format
+trigger: "When making a commit"
+confidence: 0.8
+domain: git
+source: repo-analysis
+source_repo: dawsonblock/uap
+---
+
+# Uap Instinct Commit Format
+
+## Action
+
+Write a short, descriptive, freeform commit message without a prefix
+
+## Evidence
+
+- Seen in commit: 'Add repository overview'
+- Seen in commit: 'Fix speculative physics reference errors'
+- Pattern in commits.prefixes (none)
+
+---
+id: uap-instinct-update-doc
+trigger: "When someone needs to correct, clarify, or align documentation"
+confidence: 0.9
+domain: workflow
+source: repo-analysis
+source_repo: dawsonblock/uap
+---
+
+# Uap Instinct Update Doc
+
+## Action
+
+Edit the relevant documentation file (e.g., README.md, REFERENCES.md, CHANGELOG.md, or other .md files) and commit with a descriptive message
+
+## Evidence
+
+- Workflow: update-documentation-file
+- Seen in commit: 'Align README with cleanup'
+- Seen in commit: 'Add changelog'
+
+---
+id: uap-instinct-fix-manuscript
+trigger: "When someone identifies errors or needs to update content in a manuscript file"
+confidence: 0.85
+domain: workflow
+source: repo-analysis
+source_repo: dawsonblock/uap
+---
+
+# Uap Instinct Fix Manuscript
+
+## Action
+
+Edit the manuscript file (e.g., uap-speculative-framework.md, uap-comprehensive.md, uap-physics-map-bridge.md) to fix errors or rewrite content, then commit with a message indicating the fix or rewrite
+
+## Evidence
+
+- Workflow: fix-or-rewrite-domain-specific-manuscript
+- Seen in commit: 'Fix speculative physics reference errors'
+- Seen in commit: 'Rewrite canonical manuscript with corrected facts'
+
