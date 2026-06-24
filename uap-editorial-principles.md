@@ -55,7 +55,7 @@ Vacuum condensates as propulsion media, phase-locked zero-point fields for inert
 When citing official reports, quote the actual conclusions:
 
 - **NASA (September 2023):** "We find no evidence to suggest that UAP are extraterrestrial in origin." "A limited number of high-quality observations... currently make it impossible to draw firm scientific conclusions."
-- **AARO (FY2024):** "AARO has discovered no evidence of extraterrestrial beings, activity, or technology." 444 cases archived for lack of sufficient data.
+- **AARO (FY2024):** "AARO has discovered no evidence of extraterrestrial beings, activity, or technology." 757 reports received, 708 in the air domain, zero in the transmedium domain; 444 cases archived for lack of sufficient data.
 - **AARO Director (November 2024):** Some cases are "true anomalies" he does not understand. This is an admission of insufficient data, not confirmation of exotic physics.
 
 Never paraphrase these findings into stronger or weaker claims than the source supports.

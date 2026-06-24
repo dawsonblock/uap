@@ -38,6 +38,8 @@ Here $\alpha = 0$ is normal inertia; $\alpha = 1$ is complete cancellation. Ther
 
 **Standard physics counter:** The ZPF is a quantum field. Controlling modes up to the electron Compton frequency (~10²⁰ Hz) across macroscopic volumes is not an engineering challenge; it is a physical void. No known material, field, or metamaterial can phase-lock vacuum fluctuations.
 
+The Sakharov-Puthoff hypothesis has been subject to detailed criticism in the peer-reviewed literature, with Levin (2009) demonstrating that the original Haisch-Rueda-Puthoff formulation contained incorrect physical and mathematical assumptions, that the force considered was fundamentally relativistic and equal to zero, and that the sign of the final force expression was wrong. [^48^] This hypothesis is not mainstream physics and cannot serve as a foundation for engineering scenarios without extensive qualification.
+
 ### 2.2 Drag Suppression (Unsupported)
 
 Classical drag is governed by the Navier–Stokes equations:
@@ -94,7 +96,7 @@ The Schwinger critical field (~1.3 × 10¹⁸ V/m) is irrelevant to this scenari
 
 ## 6. Quantum Gravity Phenomenology: The Tabletop Frontier
 
-For decades, quantum gravity was thought untestable in the laboratory. New programs such as the BridgeQG COST Action (2024–2028) are coordinating tabletop experiments to test gravitationally induced entanglement (GIE) using Planck-mass-scale masses. Whether GIE experiments would truly "witness" the quantum nature of gravity is disputed; some argue the results could be interpreted within semiclassical frameworks.
+For decades, quantum gravity was thought untestable in the laboratory. New programs such as the BridgeQG COST Action (2024–2028) are coordinating tabletop experiments to test gravitationally induced entanglement (GIE) using Planck-mass-scale masses. [^25^][^28^] Whether GIE experiments would truly "witness" the quantum nature of gravity is disputed; some argue the results could be interpreted within semiclassical frameworks. Recent work by Trillo and Navascués has shown that even the Diósi-Penrose collapse model — a theory of classical gravity coupled to quantum matter — can predict entanglement generation, complicating the interpretation. [^32^]
 
 The bottom line: We are approaching the ability to test whether gravity can create quantum entanglement between laboratory masses. This is profound. But it is not engineering spacetime. It is not metric control. It is a binary test—does gravity entangle or not?—and even that remains technically formidable. The distance from this frontier to "a craft that cancels inertia and manipulates spacetime" is not a small step. It is a chasm of fifteen orders of magnitude in mass, thirty orders of magnitude in decoherence rate, and an entire missing theory of quantum gravity.
 
