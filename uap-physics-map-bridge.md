@@ -2,234 +2,121 @@
 
 ## A Conditional Exploration of What Would Need to Be True
 
+This file separates two things that UAP discourse constantly confuses: real open physics problems and unsupported engineering claims. The gaps are real. The bridge is speculative. Nothing in this file is a claim that UAPs use exotic propulsion.
+
 ---
 
-# Part I: The Map — Five Real Physics Gaps
-
-The following are genuine open problems in physics. They are not UAP-specific speculation; they are the actual frontiers where known physics ends. Any hypothetical technology that performed the maneuvers attributed to UAP would need to operate in the regimes these gaps define.
+# Part I: The Map — Real Physics Gaps
 
 ## Gap 1: Quantum Gravity at Macroscopic Scales
 
-General relativity and quantum field theory are not unified. The Planck scale (~$10^{-35}$ m) is where they would meet, but speculative propulsion models demand quantum-gravitational effects engineered at meter-to-kilometer scales. [^25^] That would require a theory in which spacetime geometry itself is not fundamental but emergent — where curvature, inertia, and geodesics are not fixed background structures but dynamically tunable order parameters of an underlying quantum system.
+General relativity and quantum field theory are not unified. That is a genuine frontier. But no public quantum-gravity framework permits engineered spacetime control at vehicle scale.
 
-No such macroscopic quantum gravity framework exists in the public literature. Loop quantum gravity, string theory, and causal set approaches do not currently yield engineering-ready spacetime control. The emergent spacetime program — inspired by the AdS/CFT correspondence and the ER=EPR conjecture — suggests that spacetime geometry may arise from quantum entanglement patterns in an underlying quantum system. [^76^][^78^] Van Raamsdonk's 2010 work demonstrated that reducing entanglement between regions in a holographic dual corresponds to increasing the proper distance between those regions in the bulk spacetime, suggesting that "spacetime connectivity is a manifestation of entanglement." [^79^] This is profound as theoretical physics, but it does not provide a mechanism for engineering spacetime curvature at everyday scales.
+Emergent-spacetime ideas, holography, AdS/CFT, and ER=EPR are legitimate theoretical programs. They suggest deep relationships between entanglement and geometry. They do not provide an actuator for curvature, inertia, or geodesic control in ordinary spacetime.
 
-The tabletop quantum gravity phenomenology program — centered on Gravitationally Induced Entanglement (GIE) experiments — represents a genuine attempt to test quantum-gravitational effects in the laboratory. [^25^][^28^] The flagship proposal involves placing Planck-mass-scale masses in quantum superpositions and observing whether gravity can mediate entanglement between them. However, whether GIE experiments would truly "witness" the quantum nature of gravity is disputed; some analyses argue the results could be interpreted within semiclassical frameworks, and that the claim of witnessing quantum gravity depends on modeling assumptions. [^30^] Recent work by Trillo and Navascués has shown that even the Diósi-Penrose collapse model — a theory of classical gravity coupled to quantum matter — can predict entanglement generation, complicating the interpretation. [^32^]
-
-We are approaching the ability to test whether gravity can create quantum entanglement between laboratory masses. This would be a major advance. But it is not engineering spacetime. It is a binary test — does gravity entangle or not? — and even that remains technically formidable.
+The tabletop quantum-gravity phenomenology program is important because it may test whether gravity can mediate entanglement between laboratory masses. BridgeQG, COST Action CA23130, runs from 2024 to 2028 and coordinates work across this boundary. That is real frontier science. It is not a propulsion pathway.
 
 ## Gap 2: The Vacuum as a Structured Medium
 
-In quantum field theory, the vacuum state $|0\rangle$ has zero mean field values but nonzero correlations and field variances. The "virtual particles" that appear in popular descriptions are best treated as a calculational metaphor — a way of organizing perturbation theory — rather than as literal particles popping in and out of existence. The vacuum is not empty; it is the ground state of the quantum fields, with structured correlations that produce measurable effects like the Casimir force and Lamb shift. But these effects are extraordinarily small, localized, and do not permit the extraction of usable energy or the engineering of spacetime curvature.
+In quantum field theory, the vacuum has correlations and fluctuations. The Casimir force, Lamb shift, and Schwinger effect are real. They are not evidence that the vacuum is a usable battery, reaction mass, or controllable metric medium.
 
-The Casimir effect, demonstrated experimentally, produces an attractive force between closely spaced conducting plates due to modified vacuum mode structure. The force scales as the inverse fourth power of plate separation and becomes negligible at separations larger than micrometers. [^53^] The energy density associated with the Casimir effect is negative between the plates, but the magnitude is minuscule — on the order of $10^{-7} \text{ J/m}^3$ for typical experimental geometries — and confined to regions much smaller than any vehicle.
-
-Schwinger-scale QED effects — strong-field phenomena like electron-positron pair production from vacuum in intense electric fields — do not imply a practical mechanism for propulsion or net energy extraction. The Schwinger critical field is approximately $1.3 \times 10^{18} \text{ V/m}$, many orders of magnitude beyond any laboratory or natural field strength on Earth. [^56^] Even at this threshold, the effect produces particle pairs, not usable thrust or spacetime distortion.
-
-Hypothetical physics that treated the vacuum as a manipulable medium would require three capabilities, none of which currently exists:
-
-- **Coherent phase-locking of vacuum modes** across macroscopic volumes without decoherence. The quantum vacuum contains modes across all frequencies up to the Planck scale (~$10^{43}$ Hz); organizing even a subset of these modes into a coherent configuration across meters or kilometers would require controlling degrees of freedom at scales far beyond any existing technology.
-- **Coupling to spacetime curvature.** A demonstrated coupling between phase-locked vacuum modes and the stress-energy tensor that sources spacetime curvature in GR. Vacuum energy is connected to gravity in semiclassical and cosmological contexts — the cosmological constant problem tells us that vacuum energy should gravitate — but controllable vacuum-stress engineering has not been demonstrated.
-- **Inertia modification.** A mechanism by which local vacuum polarization modifies inertial response, presumably through the radiation-reaction coupling that some models propose between zero-point fields and accelerated matter.
+Any speculative propulsion model that treats the vacuum as manipulable would need at least three unsupported capabilities: coherent phase-locking of vacuum modes across macroscopic volumes, demonstrated coupling between that configuration and the stress-energy tensor, and a mechanism by which local vacuum structure modifies inertia. No such capabilities exist in public physics or engineering.
 
 ## Gap 3: Inertia as a Tunable Property
 
-Standard general relativity encodes inertia in the metric and the equivalence principle. The equivalence principle — tested to extraordinary precision — ties inertial mass to gravitational mass and to the local spacetime geometry. Modifying one without the others would require modifying the structure of spacetime itself.
+Accepted physics does not treat inertial mass as a knob. The equivalence principle ties inertial mass, gravitational mass, and local spacetime geometry together. Claims of "inertial mass reduction" therefore require a deep modification of known physics, not a material trick.
 
-The Sakharov-Puthoff hypothesis proposes that inertia arises from interaction with the zero-point field, but this is **not mainstream physics**. Levin's 2009 critical analysis demonstrated that the original Haisch-Rueda-Puthoff formulation contained incorrect physical and mathematical assumptions, that the force considered was fundamentally relativistic and equal to zero, and that the sign of the final force expression was wrong. [^48^] The hypothesis remains a theoretical curiosity without experimental validation and cannot serve as a foundation for engineering claims.
+The Sakharov-Puthoff / zero-point-field inertia family of ideas is not mainstream physics. It has faced serious criticism, including Levin's analysis of errors in the Haisch-Rueda-Puthoff formulation. It cannot be used as an engineering basis for UAP-like motion.
 
-The popular UAP literature frequently invokes "inertial mass reduction" as if it were a dial that advanced technology could turn down. There is no physical basis for this in accepted theory. The equivalence principle ties inertial mass to gravitational mass and to the local spacetime geometry. Modifying one without the others would require modifying the structure of spacetime itself, not simply flipping a switch inside a craft.
+## Gap 4: Controlled Negative Energy
 
-## Gap 4: Controlled Negative Energy Without Catastrophic Instability
+Warp-like metrics and traversable-wormhole concepts require negative energy. Known quantum field theory permits limited negative-energy effects, such as squeezed states and Casimir configurations, but quantum inequalities restrict their magnitude, duration, and compensation by positive energy.
 
-Warp-like metrics and certain propulsion concepts require localized negative energy density. In QFT, negative energy can appear in squeezed vacuum states, near Casimir plates, or in certain quantum inequalities. [^53^] But the known instances are bounded in magnitude and duration by quantum inequalities (Ford-Roman constraints), restricted to regions where positive energy elsewhere compensates, and not demonstrably controllable for propulsion.
+Pfenning and Ford's analysis of Alcubierre-type metrics made the engineering problem effectively impossible within standard QFT. No known loophole provides stable, macroscopic, controllable negative energy suitable for propulsion.
 
-The constraints are severe. Pfenning and Ford's 1997 analysis of the Alcubierre warp drive metric, applying quantum inequality restrictions, found that the bubble wall thickness must be on the order of hundreds of Planck lengths and that the total integrated energy required exceeds the mass of the visible universe by factors of $10^{20}$ for a macroscopically useful bubble. [^49^]
+## Gap 5: The Quantum-Classical Boundary
 
-Recent work has sharpened these constraints further, establishing that negative energy in QFT is tightly bounded and that pulse-train protocols appearing to violate averaged null energy conditions are exactly compensated by positive-energy recovery tails. [^50^] The conclusion is explicit: "practical warp drives or traversable wormholes remain impossible within standard QFT."
+Decoherence explains why local macroscopic systems lose interference through environmental interaction. It does not fully solve the measurement problem, but it does explain why ordinary objects behave classically for all practical purposes.
 
-This does not mean no loophole exists; it means no loophole is known, and the constraints from quantum inequalities are far more severe than popular discussions of "warp drive" typically acknowledge. The hidden physics would need a stable, macroscopic negative-energy configuration that evades the usual quantum inequalities without collapsing into a black hole or producing runaway particle production. No such configuration is known.
-
-## Gap 5: Resolution of the Measurement Problem at Macroscopic Scales
-
-Decoherence explains why interference disappears locally. It does not explain why a single definite outcome is observed. The measurement problem remains one of the deepest unsolved questions in physics.
-
-Current research focuses on objective collapse models — theories that modify the Schrödinger equation to include spontaneous collapse at a rate proportional to mass:
-
-**Continuous Spontaneous Localization (CSL).** Predicts excess heating and diffusion in massive objects due to spontaneous localization events. The collapse rate parameter $\lambda_{\text{CSL}}$ has been constrained by multiple experiments; the VIP-2 experiment at Gran Sasso improved bounds by a factor of 13, and LISA Pathfinder data has provided constraints at the kilogram scale. [^72^][^73^]
-
-**Diósi-Penrose.** Ties collapse to gravitational self-energy, suggesting that superpositions of massive bodies are unstable due to spacetime curvature differences between branches. The 2020 germanium detector experiments at Gran Sasso ruled out the simplest parameter-free version of this model. [^82^] Subsequent work has placed the regularization cutoff $\sigma_{\text{DP}}$ at approximately 285.5 fm — larger than an atomic nucleus, implying that if the model is correct, its effects would be relevant for molecular-scale systems. [^74^]
-
-The experimental verdict so far: no objective collapse has been detected. Standard quantum mechanics holds at ever-larger scales. But the foundational question — how do definite outcomes emerge? — remains unanswered. Decoherence is a necessary but insufficient piece.
-
-Any hypothetical technology that manipulates the quantum-classical boundary at macroscopic scales would need to operate in the regime where the measurement problem is currently unresolved. But the fact that the problem is unresolved does not mean it is resolvable in ways that permit engineering.
+Any vehicle-scale quantum-coherence proposal would need to defeat an environment that constantly entangles the object with air molecules, photons, thermal radiation, internal vibrations, and emitted heat. That is not a small isolation problem. It is the core obstacle.
 
 ---
 
-# Part II: The Bridge — Conditional Speculative Framework
+# Part II: The Bridge — Conditional Speculation
 
-**What follows is not a claim that any of this is real. It is a map of what would have to be true if extreme kinematics were independently verified and no conventional explanation remained.** Every equation is either standard physics applied to an unsupported condition, or a speculative ansatz with no demonstrated basis. The boundary between the two is marked clearly.
+## II.1 Conditional Frame
 
-## II.1 Macroscopic Quantum Coherence
+The bridge only matters under a condition that has not been met publicly: independently verified sensor data must demonstrate extreme performance beyond aircraft, drones, balloons, plasmas, atmospheric effects, electronic warfare, and sensor artifacts.
 
-The central idea is conditional: a craft that could maintain macroscopic quantum coherence while selectively coupling to its environment might modify its effective inertial response and local spacetime curvature. This is not global coherence of the universe; it is a local bubble where the usual decoherence-induced classical boundary is somehow altered.
+Without that data, the framework below is not an explanation. It is a stress test of what an exotic explanation would have to require.
 
-### Real Physics Foundation
+## II.2 Macroscopic Quantum Coherence
 
-Open quantum systems evolve via the Lindblad master equation:
+Open quantum systems are often represented by the Lindblad master equation:
 
 $$\frac{d\rho}{dt} = -\frac{i}{\hbar}[H, \rho] + \sum_k \gamma_k \left(L_k \rho L_k^\dagger - \frac{1}{2}\{L_k^\dagger L_k, \rho\}\right)$$
 
-The Lindblad operators $L_k$ and rates $\gamma_k$ determine the decoherence channels. For a macroscopic object in air at room temperature, decoherence rates are astronomical. For a 1 kg object, estimates place the rate at approximately $10^{30} \text{ s}^{-1}$. [^26^] The thermal de Broglie wavelength for such an object at 300 K is approximately $10^{-23}$ meters — impossibly small, ensuring that quantum delocalization is unobservable at everyday scales.
+The speculative claim would be that a craft somehow suppresses the relevant decoherence channels while still interacting usefully with its surroundings. No experiment demonstrates this at vehicle scale.
 
-To maintain coherence, the craft would need to suppress these rates by isolating relevant degrees of freedom or by an unknown mechanism that modifies the decoherence channels themselves.
+Quantum error correction does not close the gap. No quantum error correction has been demonstrated for the relevant macroscopic degrees of freedom of a room-temperature extended object, let alone a vehicle interacting with atmosphere or water.
 
-### Speculative Extensions (No Demonstrated Basis)
+## II.3 Inertia Modification
 
-- **Topological quantum matter** with protected surface states that resist decoherence at macroscopic scales. Such states are an active research area; scaling to vehicle sizes is unsupported.
-- **Active quantum control** — quantum error correction applied to a macroscopic object. No such demonstration exists for any system larger than a few kilograms, let alone a vehicle interacting with atmosphere at Mach speeds.
-- **Casimir engineering** — modifying boundary conditions to suppress certain vacuum modes. This is real at small scales (nanometers to micrometers); scaling it to a vehicle is unsupported.
-
-## II.2 Inertial Mass Reduction (Speculative Ansatz)
-
-In the **unaccepted** Sakharov–Puthoff model, inertia is proposed to arise from interaction with the zero-point field. The hypothetical force on an accelerated charge is:
-
-$$F_{\text{ZPF}} = \int d\omega \, \eta(\omega) \sigma(\omega) \frac{v}{c}$$
-
-where $\eta(\omega) = \hbar\omega^3 / 2\pi^2 c^3$ is the ZPF spectral energy density and $\sigma(\omega)$ is a scattering cross-section. This integrates to $F = m_i a$ in the model.
-
-If the craft could somehow alter the coherence of ZPF modes in its vicinity — an unknown mechanism with no known implementation — the cross-section might be modified. A **toy parameterization** (not a derived physical law):
+A toy parameterization sometimes exposes what the claim would need:
 
 $$m_i(\alpha) = m_0(1 - \alpha), \quad 0 \leq \alpha \leq 1$$
 
-Here $\alpha = 0$ is normal inertia; $\alpha = 1$ is complete cancellation. There is **no known physics that permits $\alpha > 0$**.
+This is not a physical law. It is a placeholder for an unknown mechanism. There is no accepted theory or experiment that permits controllable $\alpha > 0$.
 
-**Standard physics counter:** The ZPF is a quantum field. Controlling modes up to the electron Compton frequency (~$10^{20}$ Hz) across macroscopic volumes is not an engineering challenge; it is a physical void. No known material, field, or metamaterial can phase-lock vacuum fluctuations.
+## II.4 Drag Suppression
 
-The Sakharov-Puthoff hypothesis has been subject to detailed criticism in the peer-reviewed literature, with Levin (2009) demonstrating that the original Haisch-Rueda-Puthoff formulation contained incorrect physical and mathematical assumptions, that the force considered was fundamentally relativistic and equal to zero, and that the sign of the final force expression was wrong. [^48^] This hypothesis is not mainstream physics and cannot serve as a foundation for engineering scenarios without extensive qualification.
+Classical drag is governed by:
 
-## II.3 Drag Suppression (Unsupported)
+$$F_D = \frac{1}{2}\rho v^2 C_D A$$
 
-Classical drag is governed by the Navier–Stokes equations:
+A transmedium craft claim requires suppressing heating, drag, shock formation, cavitation, and momentum exchange. No known macroscopic physics does this. A vehicle moving through air interacts with roughly $10^{25}$ molecules per second, making reversible quantum control of the boundary condition physically unsupported.
 
-$$F_D = \frac{1}{2} \rho v^2 C_D A$$
+## II.5 Metric Engineering
 
-The speculative scenario would require a boundary interaction that suppresses thermalization with the surrounding medium — no shocks, no cavitation. **No known macroscopic physics does this.** Proposals involving entanglement with oncoming fluid molecules face insurmountable scaling: a craft moving through air interacts with approximately $10^{25}$ molecules per second. Reversible quantum control at that rate is not merely unengineerable; it has no theoretical foundation in known quantum field theory.
+The semiclassical Einstein equation is:
 
-## II.4 Metric Engineering via Semiclassical Gravity
+$$G_{\mu\nu} = \frac{8\pi G}{c^4}\langle\hat{T}_{\mu\nu}\rangle$$
 
-The semiclassical Einstein equations couple quantum matter to classical spacetime:
+The speculative leap is to suppose that a macroscopic coherent state could shape $\langle\hat{T}_{\mu\nu}\rangle$ strongly enough to produce useful gravitational gradients. No macroscopic object has demonstrated controllable metric perturbation through quantum stress-energy.
 
-$$G_{\mu\nu} = \frac{8\pi G}{c^4} \langle\psi|\hat{T}_{\mu\nu}|\psi\rangle$$
+## II.6 Power Burden
 
-This equation is valid in semiclassical gravity. The **speculative leap** is that a craft could maintain a macroscopic coherent state $|\psi\rangle$ with a spatially varying expectation value $\langle\hat{T}_{\mu\nu}\rangle$ large enough to produce a gravitational potential $\Phi$:
-
-$$a = -\nabla\Phi$$
-
-If the craft's inertial mass were near zero (by the unsupported ansatz above), this acceleration could be extreme. The energy density required for 1000 g acceleration of a 10-ton craft is approximately $10^{15} \text{ J/m}^3$ — nuclear energy densities, not impossible in principle, but requiring a coherent quantum stress-energy that has never been demonstrated.
-
-Vacuum energy is connected to gravity in semiclassical and cosmological contexts, but controllable vacuum-stress engineering has not been demonstrated. **No macroscopic object has ever produced a measurable, controllable metric perturbation through quantum coherence.**
-
-## II.5 The Power Problem
-
-Suppose the craft attempts to maintain coherence via dynamical decoupling. The power required to suppress natural decoherence scales as:
+As a punitive order-of-magnitude heuristic, not a derived propulsion power law, suppose active control tried to suppress natural decoherence. A deliberately conservative dimensional estimate is:
 
 $$P(\alpha) \sim \alpha^2 \frac{m_0 c^2}{\tau_{\text{dec}}}$$
 
-For $m_0 = 10^4$ kg and $\tau_{\text{dec}} \sim 10^{-30}$ s, $P \sim 10^{50}$ W. This is not merely impractical; it exceeds the power output of the Sun by many orders of magnitude.
-
-Quantum error correction could, in principle, reduce this burden if a fault-tolerant threshold exists. But no quantum error correction has been demonstrated for any system larger than a few kilograms, let alone a vehicle interacting with atmosphere at Mach speeds. The problem is not that the engineering is hard; it is that the known physics of decoherence may be insurmountable for macroscopic objects in thermal environments.
-
-## II.6 Warp Constraints: Quantum Inequalities
-
-Pfenning and Ford's 1997 analysis of the Alcubierre warp drive metric, applying quantum inequality restrictions, found that the bubble wall thickness must be on the order of hundreds of Planck lengths and that the total integrated energy required exceeds the mass of the visible universe by factors of $10^{20}$ for a macroscopically useful bubble. [^49^]
-
-Recent work has sharpened these constraints further, establishing that negative energy in QFT is tightly bounded and that pulse-train protocols appearing to violate averaged null energy conditions are exactly compensated by positive-energy recovery tails. [^50^] The conclusion is explicit: "practical warp drives or traversable wormholes remain impossible within standard QFT."
-
-This does not mean no loophole exists; it means no loophole is known, and the constraints from quantum inequalities are far more severe than popular discussions of "warp drive" typically acknowledge.
+For $m_0 = 10^4$ kg and $\tau_{\text{dec}} \sim 10^{-30}$ s, this gives a scale around $10^{50}$ W. The exact number is not the claim. The claim is that vehicle-scale coherence in ordinary environments carries a catastrophically large control burden under known physics.
 
 ---
 
-# Part III: The Experimental Frontier
+# Part III: Experimental Distance
 
-The distance between current experimental capabilities and the speculative bridge is not a small gap. It is a chasm measured in orders of magnitude.
+Current laboratory coherence experiments are nowhere near vehicle scale. ETH Zurich's 16.2-microgram sapphire-crystal experiment is impressive, but it is still microscopic relative to a $10^4$ kg craft. The mass gap is about fifteen orders of magnitude.
 
-## III.1 Macroscopic Quantum Superposition
+The decoherence-rate gap is worse. For kilogram-scale objects in ordinary environments, decoherence estimates can reach roughly $10^{30}\ \text{s}^{-1}$. That phase information disperses into the environment so thoroughly that no known recovery method exists for a warm, extended macroscopic object.
 
-The current state of the art:
-
-- **ETH Zurich, 2023:** A sapphire crystal weighing 16.2 micrograms (comparable to a grain of sand) was placed in a superposition of two vibrational states. This is several billion times heavier than a single atom. [^23^]
-- **University of Vienna, 2025–2026:** Metallic sodium nanoparticles of ~170,000 atomic mass units (~8 nm) were delocalized in a matter-wave interferometer, achieving a macroscopicity parameter roughly an order of magnitude beyond previous experiments. [^27^]
-
-The gap to a vehicle-scale object (~$10^4$ kg) is **fifteen orders of magnitude** in mass, with no known shortcut.
-
-## III.2 Decoherence Rates
-
-For a 1 kg object at room temperature interacting with air, the decoherence rate is approximately $10^{30} \text{ s}^{-1}$. This is not an engineering problem to be solved with better isolation. It is a fundamental consequence of interacting with ~$10^{25}$ thermal photons and air molecules per second. The phase information disperses into the environment so completely that no known quantum error correction scheme can recover it for a macroscopic object in thermal contact with its surroundings.
-
-The gap in decoherence rate between laboratory superpositions and vehicle-scale objects is **thirty orders of magnitude**.
-
-## III.3 Quantum Gravity Phenomenology
-
-For decades, quantum gravity was thought untestable in the laboratory. New programs such as the BridgeQG COST Action (2024–2028) are coordinating tabletop experiments to test gravitationally induced entanglement (GIE) using Planck-mass-scale masses. [^25^][^28^]
-
-Whether GIE experiments would truly "witness" the quantum nature of gravity is disputed. Trillo and Navascués have shown that even the Diósi-Penrose collapse model — a theory of classical gravity coupled to quantum matter — can predict entanglement generation, complicating the interpretation. [^32^]
-
-The bottom line: We are approaching the ability to test whether gravity can create quantum entanglement between laboratory masses. This is profound. But it is not engineering spacetime. It is not metric control. It is a binary test — does gravity entangle or not? — and even that remains technically formidable.
-
-## III.4 Objective Collapse Constraints
-
-- **VIP-2 at Gran Sasso:** Improved bounds on CSL parameters by a factor of 13. [^72^]
-- **LISA Pathfinder:** Provided constraints on collapse models at the kilogram mass scale. [^73^]
-- **Germanium detectors at Gran Sasso (2020):** Ruled out the simplest parameter-free version of the Diósi-Penrose model. [^82^]
-- **Diósi-Penrose cutoff:** Placed at $\sigma_{\text{DP}} \approx 285.5$ fm — larger than an atomic nucleus. [^74^]
-
-No objective collapse has been detected. Standard quantum mechanics holds at ever-larger scales.
+Tabletop quantum-gravity work is also far from engineering. Gravitationally induced entanglement experiments would test whether gravity can entangle laboratory masses. That would be profound. It would not imply inertia cancellation, metric propulsion, or vacuum control.
 
 ---
 
-# Part IV: The Honest Boundary
+# Part IV: Boundary Table
 
-## IV.1 The Razor Table
+| Claim | Status |
+| --- | --- |
+| Macroscopic vacuum phase-locking | No demonstrated material, field, or theory at engineering scale. |
+| Controllable inertia modification | No accepted theory or experiment. |
+| Vehicle-scale quantum coherence in air/water | Contradicted by ordinary decoherence scaling; no known recovery scheme. |
+| Stable macroscopic negative energy | Not available under known QFT constraints. |
+| Public data forcing exotic physics | Not present in the public record. |
 
-| Element | Status |
-| ------- | ------ |
-| Macroscopic vacuum phase-locking | No material has demonstrated this. No theory predicts it at engineering scales. |
-| Controllable inertia modification | No experiment has shown this. No accepted theory permits it. |
-| Unification of quantum fields and emergent spacetime at engineering scales | No such framework exists in the public literature. |
-| Public data forcing the existence of such phenomena | AARO and NASA explicitly state they have found no such evidence. [^2^][^16^] |
+## Bottom Line
 
-## IV.2 Required Capabilities (Undemonstrated)
-
-If the speculative scenario were possible, it would require:
-
-1. **Macroscopic quantum coherence at vehicle scales**, maintained against thermal and environmental noise. The largest coherent objects in labs are still microscopic (16.2 micrograms). The gap to a $10^4$ kg craft is fifteen orders of magnitude.
-2. **Unknown inertia-modification mechanism.** No accepted theory permits controllable reduction of inertial mass. The Sakharov–Puthoff hypothesis is not mainstream physics.
-3. **Unknown fluid-interaction mechanism.** No known physics permits reversible, coherence-preserving interaction with a macroscopic fluid flow.
-4. **Controllable semiclassical stress-energy.** No experiment demonstrates that a quantum system can engineer its own gravitational field for propulsion.
-5. **Power source.** Compact fusion or matter-antimatter could supply the energy, but the energy would be conventional, not zero-point.
-
-## IV.3 The Experimental Gap
-
-No experiment has demonstrated:
-
-- Macroscopic quantum coherence of an object larger than ~$10^{-5}$ g (16.2 micrograms).
-- Phase-locking of vacuum fluctuations for inertia modification.
-- Drag suppression through quantum boundary effects.
-- Coherent gravitational gradient generation from quantum stress-energy.
-- A stable, macroscopic negative-energy configuration that evades the Ford–Roman quantum inequalities.
-
-## IV.4 Bottom Line
-
-The answer is: **there is no known mechanism.**
-
-The framework above assembles real equations — Lindblad dynamics, semiclassical gravity, Casimir physics — but every bridge from those equations to UAP-like performance requires inserting an unknown physical process that has never been demonstrated.
-
-The most honest speculative model is this: a macroscopic quantum system that somehow suppresses decoherence, modifies its coupling to the quantum vacuum to alter inertia, and uses its own stress-energy to produce gravitational gradients — all powered by a conventional dense energy source. But the "somehow" is not a small gap. It is the entire missing floor.
-
-**No self-consistent model can be built from known physics without at least one unsupported mechanism. The equations do not close. The power requirements are prohibitive. The experimental record is empty.**
-
-The map is real. The gaps are genuine open problems in physics. The bridge is a sketch of what would need to fill them — not a blueprint, not a ranked likelihood, and not a claim that any of it exists. The only honest position is that we do not know, and the only honest demand is for the data that would let us test whether the gap is real or a shadow of missing information.
+The bridge does not close. Every route from known equations to UAP-like performance requires an unsupported mechanism. The correct demand is not another speculative story. It is raw sensor data, platform logs, radar tapes, metadata, calibration records, and independently reproducible reconstruction.
 
 ---
 
@@ -238,24 +125,13 @@ The map is real. The gaps are genuine open problems in physics. The bridge is a 
 [^2^]: AARO, *Report on the Historical Record of U.S. Government Involvement with UAP*, Volume 1, March 2024; AARO FY2024 Annual Report.
 [^16^]: NASA Independent Study Team on UAP, *Report on Unidentified Anomalous Phenomena*, September 2023.
 [^23^]: F. Patereau et al. (ETH Zurich), "A macroscopic quantum mechanical object," *Nature Communications* 14, 5266 (2023). 16.2-microgram sapphire crystal superposition.
-[^25^]: For quantum gravity phenomenology, see C. Marletto and V. Vedral, "Gravitationally-induced quantum interference," *Nature Physics* 13, 1007 (2017); BridgeQG COST Action CA23140.
-[^26^]: E. Joos and H. D. Zeh, "The emergence of classical properties through interaction with the environment," *Zeitschrift für Physik B* 59, 223 (1985); K. Hornberger, in *Decoherence and the Quantum-to-Classical Transition* (Springer, 2008).
-[^27^]: Y. Y. Fein et al. (University of Vienna), "Quantum superposition of molecules beyond 25 kDa," *Nature Physics* 15, 1242 (2019); subsequent nanoparticle delocalization experiments, 2025–2026.
-[^28^]: BridgeQG COST Action CA23140 (2024–2028), coordinating tabletop quantum gravity experiments across European institutions.
+[^25^]: C. Marletto and V. Vedral, "Gravitationally-induced quantum interference," *Nature Physics* 13, 1007 (2017); BridgeQG COST Action CA23130.
+[^26^]: E. Joos and H. D. Zeh, "The emergence of classical properties through interaction with the environment," *Zeitschrift für Physik B* 59, 223 (1985); K. Hornberger, in *Decoherence and the Quantum-to-Classical Transition*.
+[^28^]: BridgeQG COST Action CA23130 (2024–2028), coordinating tabletop quantum-gravity research.
+[^30^]: For interpretation issues in gravitationally induced entanglement experiments, see R. B. Mann et al., "Can gravity be quantum?," *arXiv:2308.10907* (2023).
 [^32^]: B. C. Trillo and M. Navascués, "Gravity-mediated entanglement and the Diósi-Penrose model," 2023/2024.
 [^48^]: B. H. J. Levin, "Inertia as a zero-point-field Lorentz force?," *Physical Review A* 79, 012114 (2009).
 [^49^]: S. Pfenning and L. Ford, "The unphysical nature of 'warp drive'," *Classical and Quantum Gravity* 14, 1743 (1997).
-[^50^]: L. Ford and T. Roman, "Negative energy and quantum inequalities," *Physical Review D* 87, 064010 (2013); subsequent work on pulse-train protocols and averaged null energy conditions.
-[^53^]: H. B. G. Casimir, "On the attraction between two perfectly conducting plates," *Proc. K. Ned. Akad. Wet.* 51, 793 (1948); S. K. Lamoreaux, *Physical Review Letters* 78, 5 (1997).
-[^56^]: J. Schwinger, "On gauge invariance and vacuum polarization," *Physical Review* 82, 664 (1951). Critical field E_c ≈ 1.3 × 10¹⁸ V/m.
-[^72^]: VIP-2 Collaboration, improved bounds on CSL collapse models, Gran Sasso underground laboratory.
-[^73^]: B. Helou et al., "LISA Pathfinder and collapse models," *Physical Review D* 97, 084040 (2018); constraints on CSL at kilogram scale.
-[^74^]: Diósi-Penrose regularization cutoff placed at σ_DP ≈ 285.5 fm; see subsequent analysis of Gran Sasso germanium detector results.
-[^76^]: J. M. Maldacena, "The large N limit of superconformal field theories and supergravity," *Adv. Theor. Math. Phys.* 2, 231 (1998). AdS/CFT correspondence.
-[^78^]: J. Maldacena and L. Susskind, "Cool horizons for entangled black holes," *Fortsch. Phys.* 61, 781 (2013). ER=EPR conjecture.
-[^79^]: M. Van Raamsdonk, "Building up spacetime with quantum entanglement," *Gen. Rel. Grav.* 42, 2323 (2010).
-[^82^]: A. Kumakhov et al., testing the Diósi-Penrose model with germanium detectors, Gran Sasso underground laboratory, 2020.
-
----
-
-*Document compiled June 2026. All factual claims are sourced to publicly available documents and peer-reviewed literature. Speculative sections are explicitly marked as conditional.*
+[^50^]: L. Ford and T. Roman, work on negative energy and quantum inequalities.
+[^53^]: H. B. G. Casimir, "On the attraction between two perfectly conducting plates," 1948; S. K. Lamoreaux, experimental Casimir-force measurement, 1997.
+[^56^]: J. Schwinger, "On gauge invariance and vacuum polarization," *Physical Review* 82, 664 (1951).
