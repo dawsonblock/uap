@@ -100,7 +100,7 @@ The bottom line: We are approaching the ability to test whether gravity can crea
 
 ## 7. Honest Bottom Line
 
-You asked for the mechanism. The answer is: **there is no known mechanism.**
+The answer is: **there is no known mechanism.**
 
 The framework above assembles real equations—Lindblad dynamics, semiclassical gravity, Casimir physics—but every bridge from those equations to UAP-like performance requires inserting an unknown physical process that has never been demonstrated.
 
