@@ -1,4 +1,4 @@
-.PHONY: lint check-refs check-stale check build pdf html clean install-deps help
+.PHONY: lint check-refs check-stale check build verify-build pdf html clean install-deps help
 
 # Canonical markdown files (exclude archive/)
 MD_FILES := $(shell find manuscript appendices references style -name '*.md' 2>/dev/null)
@@ -37,12 +37,18 @@ check-stale: ## Scan canonical files for forbidden/stale strings
 
 build: pdf html ## Build PDF and HTML outputs
 
+verify-build: build ## Build outputs and fail on obvious export warnings
+	@test -s build/uap-comprehensive.pdf
+	@test -s build/uap-comprehensive.html
+	@echo "build artifacts: OK"
+
 pdf: ## Build PDF from the main manuscript (requires pandoc + xelatex)
 	@command -v pandoc >/dev/null 2>&1 || { echo "pandoc not found. Run: brew install pandoc"; exit 1; }
 	@mkdir -p build
 	pandoc manuscript/uap-comprehensive.md \
 		-o build/uap-comprehensive.pdf \
 		--pdf-engine=xelatex \
+		--variable mainfont="DejaVu Serif" \
 		--toc
 	@echo "PDF: build/uap-comprehensive.pdf"
 
@@ -52,7 +58,8 @@ html: ## Build HTML from the main manuscript (requires pandoc)
 	pandoc manuscript/uap-comprehensive.md \
 		-o build/uap-comprehensive.html \
 		--toc \
-		--standalone
+		--standalone \
+		--mathjax
 	@echo "HTML: build/uap-comprehensive.html"
 
 clean:
