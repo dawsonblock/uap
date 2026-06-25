@@ -32,3 +32,9 @@ jobs:
 
       - name: Check for stale/forbidden strings
         run: python3 scripts/check_stale_claims.py
+
+      - name: Install Pandoc and XeLaTeX
+        run: sudo apt-get update && sudo apt-get install -y pandoc texlive-xetex fonts-dejavu
+
+      - name: Verify export builds
+        run: make verify-build
