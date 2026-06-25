@@ -22,7 +22,7 @@ This file consolidates all references cited across the manuscript bundle. Where 
 
 [^NASA-UAP-GOFAST^]: NASA Independent Study Team on UAP, September 2023. GoFast geometric analysis based on ATFLIR on-screen data; NASA data quality assessment: "hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata, and the lack of baseline data."
 
-[^AARO-GOFAST-2024^]: AARO, *Case Resolution: GoFast (2015)*, 2024. <https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf> (accessed June 2026). See also: <https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/>.
+[^AARO-GOFAST-2025^]: AARO, *Case Resolution: “Go Fast”*, February 6, 2025. Event date: January 2015. <https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf> (accessed June 2026). See also: <https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/>.
 
 [^AARO-HRR-VOL1^]: AARO, *Historical Record Report*, Volume 1, March 2024. <https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf> (accessed June 2026).
 
@@ -60,13 +60,13 @@ This file consolidates all references cited across the manuscript bundle. Where 
 
 [^PATEREAU-2023^]: F. Patereau et al. (ETH Zurich), "A macroscopic quantum mechanical object," *Nature Communications* 14, 5266 (2023). DOI: [10.1038/s41467-023-40729-2](https://doi.org/10.1038/s41467-023-40729-2). 16.2-microgram sapphire crystal superposition.
 
-[^FEIN-2019-PEDALINO-2026^]: Y. Y. Fein et al. (University of Vienna), "Quantum superposition of molecules beyond 25 kDa," *Nature Physics* 15, 1242 (2019). DOI: [10.1038/s41567-019-0663-9](https://doi.org/10.1038/s41567-019-0663-9). S. Pedalino et al., "Probing quantum mechanics with nanoparticle matter-wave interferometry," *Nature* 649, 866–870 (2026). DOI: [10.1038/s41586-025-09917-9](https://doi.org/10.1038/s41586-025-09917-9). Sodium nanoparticles >170,000 Da, macroscopicity μ = 15.5.
+[^FEIN-2019-PEDALINO-2026^]: Y. Y. Fein et al. (University of Vienna), "Quantum superposition of molecules beyond 25 kDa," *Nature Physics* 15, 1242 (2019). DOI: [10.1038/s41567-019-0663-9](https://doi.org/10.1038/s41567-019-0663-9). S. Pedalino et al., "Probing quantum mechanics with nanoparticle matter-wave interferometry," *Nature* 649, 866–870 (2026). DOI: [10.1038/s41586-025-09917-9](https://doi.org/10.1038/s41586-025-09917-9). Sodium nanoparticles >170,000 Da, macroscopicity $\mu = 15.5$.
 
 ---
 
 ## Physics — Vacuum Structure & Casimir Effect
 
-[^CASIMIR-1948^]: H. B. G. Casimir, "On the attraction between two perfectly conducting plates," *Proc. K. Ned. Akad. Wet.* 51, 793 (1948). S. K. Lamoreaux, "Demonstration of the Casimir force in the 0.6 to 6 μm range," *Physical Review Letters* 78, 5 (1997). DOI: [10.1103/PhysRevLett.78.5](https://doi.org/10.1103/PhysRevLett.78.5).
+[^CASIMIR-1948^]: H. B. G. Casimir, "On the attraction between two perfectly conducting plates," *Proc. K. Ned. Akad. Wet.* 51, 793 (1948). S. K. Lamoreaux, "Demonstration of the Casimir force in the 0.6 to 6 $\mu$m range," *Physical Review Letters* 78, 5 (1997). DOI: [10.1103/PhysRevLett.78.5](https://doi.org/10.1103/PhysRevLett.78.5).
 
 [^SCHWINGER-1951^]: J. Schwinger, "On gauge invariance and vacuum polarization," *Physical Review* 82, 664 (1951). DOI: [10.1103/PhysRev.82.664](https://doi.org/10.1103/PhysRev.82.664). Critical field $E_c \approx 1.3 \times 10^{18} \text{ V/m}$.
 

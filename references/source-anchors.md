@@ -12,15 +12,19 @@ Primary source: AARO, `AARO_Puerto_Rico_UAP_Case_Resolution.pdf`. Available at <
 
 ## AARO FY2024 Annual Report
 
-The FY2024 report (covering May 2023–June 2024) states: 757 reports received, 708 in the air domain, zero in the transmedium domain. **444 cases remained unresolved or lacked sufficient data for closure.** The report does not use the word "archived" for these 444 cases in publicly available summaries; press coverage describes them as unresolved or pending. This manuscript uses "remained unresolved or lacked sufficient data for closure" rather than "archived."
+The FY2024 report (covering May 2023–June 2024) states: 757 reports received, 708 in the air domain, zero in the transmedium domain. The report says the remaining **444 cases lacked sufficient data to facilitate analysis and were placed in the Active Archive**, where they may be held for pattern-of-life/trend analysis or reexamined if more data becomes available.
 
 No verified evidence of extraterrestrial beings, activity, or technology was found.
 
+This manuscript avoids shorthand that could imply final closure. Use the precise phrasing: **444 cases lacked sufficient data and were placed in the Active Archive**.
+
 Primary source: DOD/AARO, *Fiscal Year 2024 Consolidated Annual Report on UAP*, November 2024. <https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF>.
 
-## AARO GoFast Case Resolution
+## AARO Go Fast Case Resolution
 
-AARO published a formal GoFast case resolution card with methodology. The PDF is available at <https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf>. The case resolution attributes the apparent high speed to motion parallax.
+AARO published a formal “Go Fast” case resolution card with methodology. The PDF identifies the document as **Case Resolution | February 6, 2025**, with event date **January 2015**, assessed altitude **13,000 feet**, assessed speed **5–92 mph**, and high confidence that the object did not demonstrate anomalous performance. The case resolution attributes the apparent high speed to motion parallax.
+
+Primary source: AARO, *Case Resolution: “Go Fast”*, February 6, 2025. <https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf>.
 
 ## BridgeQG
 
@@ -34,7 +38,7 @@ S. Pedalino et al., "Probing quantum mechanics with nanoparticle matter-wave int
 
 Verified against the Nature article page: title, volume, page range, and publication date all match. The arXiv preprint (arXiv:2507.21211) has a different title ("Probing quantum mechanics using nanoparticle Schrödinger cats") but the same scientific content. The manuscript cites the published Nature version.
 
-Result: sodium nanoparticles >7,000 atoms, >170,000 Da, macroscopicity μ = 15.5.
+Result: sodium nanoparticles >7,000 atoms, >170,000 Da, macroscopicity $\mu = 15.5$.
 
 Primary source: <https://www.nature.com/articles/s41586-025-09917-9>.
 

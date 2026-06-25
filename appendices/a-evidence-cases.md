@@ -40,7 +40,7 @@ In March 2025, AARO released a report on the Puerto Rico incidents, including th
 
 ## GoFast
 
-AARO's case resolution for the 2015 "GoFast" video attributes the apparent high speed to motion parallax [^AARO-GOFAST-2024^]—the difference in apparent motion of a slow object near the camera versus distant background. According to AARO, the object did not show anomalous performance when triangulated against available data. The honest position is not that the object is definitively a balloon or bird; it is that the public record does not support the claim of extraordinary kinematics in this case.
+AARO's case resolution for the 2015 "GoFast" video attributes the apparent high speed to motion parallax [^AARO-GOFAST-2025^]—the difference in apparent motion of a slow object near the camera versus distant background. According to AARO, the object did not show anomalous performance when triangulated against available data. The honest position is not that the object is definitively a balloon or bird; it is that the public record does not support the claim of extraordinary kinematics in this case.
 
 ## Nimitz
 
@@ -56,7 +56,7 @@ Classification is a real and powerful tool. It explains why certain sensor data,
 
 ## AARO FY2024 Statistics
 
-AARO's FY2024 Annual Report (covering May 2023–June 2024) states: 757 reports received, 708 in the air domain, zero in the transmedium domain; 444 cases remained unresolved or lacked sufficient data for closure; no verified evidence of extraterrestrial beings, activity, or technology. [^AARO-HRR-VOL1^] AARO's Director acknowledged in November 2024 that some cases are "true anomalies" he does not understand — but this is an admission of insufficient data, not confirmation of exotic physics.
+AARO's FY2024 Annual Report (covering May 2023–June 2024) states: 757 reports received, 708 in the air domain, zero in the transmedium domain; 444 cases lacked sufficient data and were placed in the Active Archive; no verified evidence of extraterrestrial beings, activity, or technology. [^AARO-HRR-VOL1^] AARO's Director acknowledged in November 2024 that some cases are "true anomalies" he does not understand — but this is an admission of insufficient data, not confirmation of exotic physics.
 
 ---
 
@@ -70,7 +70,7 @@ AARO's FY2024 Annual Report (covering May 2023–June 2024) states: 757 reports 
 [^AARO-PUERTO-RICO-2025^]: AARO, *Case Resolution: Puerto Rico Object (April 26, 2013)*, March 2025. <https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/>.
 [^NASA-UAP-2023^]: NASA Independent Study Team on UAP, *Report on Unidentified Anomalous Phenomena*, September 2023.
 [^NASA-UAP-GOFAST^]: NASA Independent Study Team on UAP, September 2023. GoFast geometric analysis based on ATFLIR on-screen data; NASA data quality assessment.
-[^AARO-GOFAST-2024^]: AARO, *Case Resolution: GoFast (2015)*, 2024. <https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf>.
+[^AARO-GOFAST-2025^]: AARO, *Case Resolution: “Go Fast”*, February 6, 2025. Event date: January 2015. <https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf>.
 [^AARO-HRR-VOL1^]: AARO, *Historical Record Report*, Volume 1, March 2024. <https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf>.
 [^NIMITZ-2004^]: Nimitz incident public record: USS Princeton SPY-1 radar data, ATFLIR video, witness accounts (Fravor, Dietrich, et al.), November 14, 2004.
 [^AARO-REPORTING-GUIDANCE^]: AARO reporting guidance, 50 U.S.C. § 3373; AARO User Guide for UAP Reporting.

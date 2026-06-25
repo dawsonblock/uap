@@ -2,6 +2,16 @@
 
 All notable changes to this manuscript bundle are documented in this file.
 
+## [2.1.1] — 2026-06-25
+
+### Fixed
+
+- Corrected Go Fast citation key and reference from 2024 to AARO's February 6, 2025 case-resolution PDF.
+- Corrected FY2024 Active Archive source-anchor language to match the primary AARO report.
+- Added stale-claim guards for the old GoFast 2024 citation forms.
+- Made PDF/HTML export safer by using MathJax for HTML and PDF-safe math rendering for signature symbols.
+- Added `verify-build` target and CI export-build verification.
+
 ## [2.1.0] — 2026-06-24
 
 ### Trust Infrastructure (P0)
@@ -54,7 +64,7 @@ All notable changes to this manuscript bundle are documented in this file.
 - Corrected BridgeQG COST Action number: CA23140 → CA23130 across all files.
 - Added missing `[^30^]` footnote definition in physics-map-bridge.
 - Corrected Aguadilla date to AARO-first language: "AARO lists April 26, 2013; some third-party analyses use April 25." Removed "April 25–26" compromise from case titles and body text.
-- Corrected AARO FY2024 wording: "444 cases archived for lack of sufficient data" → "444 cases remained unresolved or lacked sufficient data for closure."
+- Corrected AARO FY2024 wording to the primary-source language: 444 cases lacked sufficient data and were placed in the Active Archive.
 - Verified Pedalino et al. citation against Nature: title, volume 649, pages 866–870 (2026) all confirmed. Added DOI 10.1038/s41586-025-09917-9.
 - Removed uncited "2025 AARO Workshop" section (no primary source available).
 - Replaced "ICIG process remains ongoing in classified channels" with "No public ICIG conclusion validating the existence of non-human craft, biologics, or recovered technology has been released."
